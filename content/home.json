@@ -37,8 +37,9 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": false
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-tarja6x-frete-250.png",
+      "alt": "Tarja Frete"
     },
     {
       "type": "collection-shelf",
