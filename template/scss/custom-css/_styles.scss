@@ -1,1 +1,14 @@
 // Add your custom CSS here.
+// cabeçalho
+#header {
+  background-color: #1c1c1c;
+}
+.top-bar {
+  background-color: #c00;
+}
+.top-bar a, .header__toggler span, .header__toggler svg, #user-button svg, #cart-button svg {
+  color: #fff;
+}
+.header__buttons .btn .badge {
+  background-color: #c00;
+}

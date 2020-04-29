@@ -7,15 +7,30 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/camisa-masculina-web.jpg",
+          "link": "https://www.kelvys.com.br/camisa-masculina/",
+          "alt": "Camisa Masculina",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
+          "img": "/img/uploads/camisa-polo-web.jpg",
+          "link": "https://www.kelvys.com.br/camisa-polo-masculina/",
+          "alt": "Camisa Polo",
+          "start": "",
+          "end": ""
+        },
+        {
+          "img": "/img/uploads/acessorios-web.jpg",
+          "link": "https://www.kelvys.com.br/acessorios-masculinos/",
+          "alt": "Acessórios",
+          "start": "",
+          "end": ""
+        },
+        {
+          "img": "/img/uploads/oquedizemsobrenos-web.jpg",
+          "alt": "Avaliações dos Clientes",
+          "link": "https://www.kelvys.com.br/pagina/depoimentos-de-clientes",
           "start": "",
           "end": ""
         }
@@ -23,7 +38,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
