@@ -5,16 +5,16 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Pages",
+    "title": "Páginas",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categories",
+    "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Contato",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -24,6 +24,18 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/selo-lojaprefere_b2-min.png",
+      "alt": "PayPal Plus"
+    },
+    {
+      "src": "/img/uploads/selo-paghiper-min.png",
+      "alt": "Paghiper"
+    },
+    {
+      "src": "/img/uploads/trustwave_kelvys.png",
+      "alt": "Trust commerce"
     }
   ],
   "payment_methods": {
