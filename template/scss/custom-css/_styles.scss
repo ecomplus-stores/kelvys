@@ -12,3 +12,21 @@
 .header__buttons .btn .badge {
   background-color: #c00;
 }
+// main
+// hide banner in to mobile
+@media (max-width: 468px) {
+  .responsive-baner {
+    display: none;
+  }
+  .banners-grid {
+    display: none;
+  }
+}
+// footer
+.footer address {
+  display: none;
+}
+.footer__credits {
+  text-align: center;
+  border-top: 1px solid #000;
+}
