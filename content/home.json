@@ -42,6 +42,26 @@
       "alt": "Tarja Frete"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/camisa-masculina-cat.jpg",
+          "alt": "Camisa masculina",
+          "link": "https://www.kelvys.com.br/camisa-masculina/"
+        },
+        {
+          "img": "/img/uploads/camisa-jeans-min.png",
+          "alt": "Camisa Jeans Masculina",
+          "link": "https://www.kelvys.com.br/camisa-jeans-masculina/"
+        },
+        {
+          "img": "/img/uploads/acessorios-cat.jpg",
+          "alt": "Acessórios ",
+          "link": "https://www.kelvys.com.br/acessorios-masculinos/"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
