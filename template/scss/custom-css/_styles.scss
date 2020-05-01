@@ -6,15 +6,19 @@ body {
 // cabeçalho
 #header {
   background-color: #1c1c1c;
+  box-shadow: 0 1px 10px 0 #696969; 
 }
 .top-bar {
+  max-width: 100%;
   background-color: #b70000;
+  font-size: 13px;
+  font-weight: 400;
 }
 .top-bar a, .header__toggler span, .header__toggler svg, #user-button svg, #cart-button svg {
   color: #fff;
 }
 .header__buttons .btn .badge {
-  background-color: #c00;
+  background-color: #b70000;
 }
 .menu__btn.menu__btn--close {
   color: #696969;
