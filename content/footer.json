@@ -55,7 +55,7 @@
     "mastercard": true,
     "paypal": true,
     "citibank": false,
-    "hiper": true,
+    "hiper": false,
     "diners": true,
     "mais": false,
     "amex": true,
