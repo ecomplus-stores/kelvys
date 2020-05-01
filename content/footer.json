@@ -22,10 +22,6 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    },
-    {
       "src": "/img/uploads/selo-parcelamento_6x_b1-min.png",
       "alt": "PayPal Plus"
     },
@@ -34,11 +30,15 @@
       "alt": "Paghiper"
     },
     {
-      "src": "/img/uploads/trustwave_kelvys.png",
-      "alt": "Trust commerce"
+      "src": "/img/uploads/version-vertical-small-min.png"
     },
     {
-      "src": "/img/uploads/version-vertical-small-min.png"
+      "src": "/img/uploads/ssl-safe.png",
+      "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/trustwave_kelvys.png",
+      "alt": "Trust commerce"
     }
   ],
   "payment_methods": {
