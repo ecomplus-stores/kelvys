@@ -116,6 +116,12 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
     display: none;
 }
 // footer
+footer.footer.py-3.py-lg-4.py-xl-5 {
+    font-size: .9rem;
+}
+div.col-12.col-xl-5.order-lg-first > p {
+    text-align: justify;
+}
 .footer address {
   display: none;
 }
