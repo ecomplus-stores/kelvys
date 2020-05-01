@@ -19,7 +19,7 @@ svg.svg-inline--fa.fa-instagram.fa-w-14 {
 }
 .top-bar {
   background-color: #b70000;
-  font-size: 13px;
+  font-size: var(--font-size-sm);
 }
 .top-bar__page-links a {
     font-weight: 400;
