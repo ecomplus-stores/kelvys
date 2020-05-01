@@ -67,6 +67,16 @@
       "collection_id": "5ea9e9125ac4060578b69688"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5ea9ee3d5ac4060578b69769"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5ea9eebf5ac4060578b6976d"
+    },
+    {
       "type": "custom-html",
       "html": "<section class=\"benchmark pb-5\">\n    <!--JB Tracker--> <script type=\"text/javascript\"> var _paq = _paq || []; (function(){ if(window.apScriptInserted) return; _paq.push(['clientToken', 'P%2bsIjEMd6oQ%3d']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.async=true; g.defer=true; g.src='https://prod.benchmarkemail.com/tracker.bundle.js'; s.parentNode.insertBefore(g,s); window.apScriptInserted=true;})(); </script> <!--/JB Tracker--> <!-- BEGIN: Benchmark Email Signup Form Code -->\n    <script type=\"text/javascript\" id=\"lbscript950475\" src=\"https://lb.benchmarkemail.com//br/code/lbformnew.js?mFcQnoBFKMTYRNjv4zP7MeZXUawFafLCzJzBPw%252BD1hA1SgsGRzPBIg%253D%253D\"></script><noscript>Please enable JavaScript <br /></noscript>\n    <!-- END: Benchmark Email Signup Form Code -->\n  </section>\n  <section class=\"instagram\">\n    <b style=\"font-size: 16px\">Siga nosso Instagram</b><b><a href=\"https://www.instagram.com/kelvyscamisas/\" style=\"font-size: 16px; color:#cc0000;\"> @kelvyscamisas</a></b>\n    <!-- LightWidget WIDGET --><script src=\"https://cdn.lightwidget.com/widgets/lightwidget.js\"></script><iframe src=\"https://cdn.lightwidget.com/widgets/2158ef1866e750edaeba1e707492b540.html\" scrolling=\"no\" allowtransparency=\"true\" class=\"lightwidget-widget\" style=\"width:100%;border:0;overflow:hidden; \"></iframe>\n  </section>"
     }
