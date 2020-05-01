@@ -1,12 +1,5 @@
 {
-  "sort_categories": [
-    "camisas-masculinas",
-    "camisa-jeans-masculina",
-    "camisetas-masculinas",
-    "camisa-estampada-masculina",
-    "camisa-xadrez-masculina",
-    "camisa-polo-masculina-lisa"
-  ],
+  "sort_categories": [],
   "phone_wpp": true,
   "socials": true
 }
