@@ -6,7 +6,36 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "text": "Início",
+        "url": "https://www.kelvys.com.br/"
+      },
+      {
+        "text": "Quem Somos",
+        "url": "https://www.kelvys.com.br/pagina/sobre"
+      },
+      {
+        "text": "Endereços",
+        "url": "https://www.kelvys.com.br/pagina/enderecos"
+      },
+      {
+        "text": "Como Comprar",
+        "url": "https://www.kelvys.com.br/pagina/pagamento"
+      },
+      {
+        "text": "Depoimentos de Clientes",
+        "url": "https://www.kelvys.com.br/pagina/depoimentos-de-clientes"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "https://www.kelvys.com.br/pagina/privacidade"
+      },
+      {
+        "text": "Trocas e Devoluções",
+        "url": "https://www.kelvys.com.br/pagina/trocas"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
