@@ -11,6 +11,12 @@ body {
 .top-bar__nav {
     max-width: 100%;
 }
+svg.svg-inline--fa.fa-facebook.fa-w-16 {
+    font-size: 18px;
+}
+svg.svg-inline--fa.fa-instagram.fa-w-14 {
+    font-size: 18px;
+}
 .top-bar {
   background-color: #b70000;
   font-size: 13px;
@@ -40,6 +46,7 @@ nav.header__nav > a {
     color: #fff;
     padding: 0 var(--spacer-3);
 }
+//Menu lateral
 .menu__btn.menu__btn--close {
   color: #696969;
 }
