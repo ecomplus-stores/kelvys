@@ -7,18 +7,23 @@
     "pages": [
       {
         "title": "Rastrear pedido",
-        "link": "/pages/sobre-nos"
+        "link": "https://www2.correios.com.br/sistemas/rastreamento/"
       },
       {
         "title": "Atendimento",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": "https://www.kelvys.com.br/contato"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/camisas-masculinas?Camisa Masculina",
+      "/camisa-estampada?Camisa estampada",
+      "/camisa-polo-masculina?Camisa polo",
+      "/camisa-jeans-masculina?Camisa Jeans"
+    ],
     "random": 0
   },
   "search_input": true
