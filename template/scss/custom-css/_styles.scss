@@ -99,10 +99,13 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
   border-color: #5cb85c;
 }
 .minicart__btn-checkout.btn.btn-block.btn-primary::after {
-content: " Finalizar pedido";
+content: " Finalizar compra";
+}
+a.cart__btn-checkout.btn.btn-lg.btn-block.btn-sucess::after {
+content: " Finalizar compra";
 }
 //Pagina do produto
-picture.lozad.fade.img-fluid.show > img {
+body#page-products > picture.lozad.fade.img-fluid.show > img {
     border-radius: 20px;
 }
 .product__name {
