@@ -45,17 +45,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/camisa-masculina-cat.jpg",
+          "img": "/img/uploads/camisa-masculina-mini-web.jpg",
           "alt": "Camisa masculina",
           "link": "https://www.kelvys.com.br/camisa-masculina/"
         },
         {
-          "img": "/img/uploads/camisa-jeans-min.png",
+          "img": "/img/uploads/camisa-jeans-mini-web.jpg",
           "alt": "Camisa Jeans Masculina",
           "link": "https://www.kelvys.com.br/camisa-jeans-masculina/"
         },
         {
-          "img": "/img/uploads/acessorios-cat.jpg",
+          "img": "/img/uploads/acessorios-mini-web.jpg",
           "alt": "Acessórios ",
           "link": "https://www.kelvys.com.br/acessorios-masculinos/"
         }
@@ -64,7 +64,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null
+      "collection_id": "5ea9e9125ac4060578b69688"
     },
     {
       "type": "custom-html",
