@@ -34,11 +34,13 @@
     },
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "alt": "Secure connection",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.kelvys.com.br"
     },
     {
       "src": "/img/uploads/trustwave_kelvys.png",
-      "alt": "Trust commerce"
+      "alt": "Trust commerce",
+      "link": "https://sealserver.trustwave.com/cert.php?customerId=0d61ae2960a14989a44adcc85f3b9e6c"
     }
   ],
   "payment_methods": {
