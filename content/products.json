@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannertopo-cinza-web.jpg"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
