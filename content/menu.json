@@ -1,16 +1,12 @@
 {
   "sort_categories": [
     "camisas-masculinas",
-    "camisa-polo-masculina",
     "camisa-jeans-masculina",
     "camisetas-masculinas",
     "camisa-estampada-masculina",
-    "acessorios-masculinos",
-    "sugestao-de-looks",
-    "calca-jeans-masculina",
-    "bermuda-masculina",
-    "camisa-feminina",
-   ],
+    "camisa-xadrez-masculina",
+    "camisa-polo-masculina-lisa"
+  ],
   "phone_wpp": true,
   "socials": true
 }
