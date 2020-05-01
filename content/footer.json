@@ -26,7 +26,7 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/selo-lojaprefere_b2-min.png",
+      "src": "/img/uploads/selo-parcelamento_6x_b1-min.png",
       "alt": "PayPal Plus"
     },
     {
@@ -36,6 +36,9 @@
     {
       "src": "/img/uploads/trustwave_kelvys.png",
       "alt": "Trust commerce"
+    },
+    {
+      "src": "/img/uploads/version-vertical-small-min.png"
     }
   ],
   "payment_methods": {
