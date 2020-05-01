@@ -12,6 +12,15 @@
 .header__buttons .btn .badge {
   background-color: #c00;
 }
+.menu__btn.menu__btn--close {
+  color: #696969;
+}
+.menu__btn.btn.collapsed {
+  color:#696969;
+}
+.menu__item {
+  background: #d3d3d3;
+}
 // main
 // hide banner in to mobile
 @media (max-width: 468px) {
@@ -22,6 +31,46 @@
     display: none;
   }
 }
+.products-carousel__title {
+  font-size: 1.3rem;
+}
+.product-card button, .product-card button:hover {
+  color: #fff;
+  background-color: #5cb85c !important;
+  border-color: #5cb85c !important;
+  border-radius: 7px;
+  box-shadow: none;
+}
+.product__buy button, .product__buy button:hover {
+  color: #fff;
+  background-color: #5cb85c !important;
+  border-color: #5cb85c !important;
+  text-align: center;
+  border-radius: 7px;
+  width: 100%;
+}
+.minicart__btn-checkout.btn.btn-block.btn-primary {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #5cb85c;
+}
+//Pagina do produto
+.product__name {
+    font-size: 1.5rem;
+}
+.product__sku {
+    font-size: .75rem;
+}
+.prices__compare {
+    font-size: .9rem;
+}
+.prices__discount {
+    margin-top: 5px;
+}
+//Esconde variação cor e quantidade
+.product__short-stock {
+    display: none;
+}
 // footer
 .footer address {
   display: none;
@@ -29,4 +78,38 @@
 .footer__credits {
   text-align: center;
   border-top: 1px solid #000;
+}
+//Box Newsletter Benchmark
+.formbox-editor-950475 {  border-radius: 15px; }
+ @media (min-width: 1010px)  {
+   div.formbox-editor-950475 .formbox-title-950475 {
+     font-family: Poppins,Poppins,sans-serif !important;
+   }
+   div.formbox-editor-950475 input.formbox-field-950475 {
+     font-family: Poppins, Poppins, sans-serif;
+     width: 90%;
+   }
+   div.formbox-editor-950475 button.formbox-button-950475 {
+     font-family: Poppins, Poppins, sans-serif !important;
+     margin: -50px 0;
+     float: right;
+   }
+ }
+// checkout
+.app__header {
+  background: #1c1c1c;
+  box-shadow: 0 1px 10px 0 #696969;
+  color: #fff;
+}
+.app__contact span:not(:first-child) {
+  color: #fff;
+}
+.app__contact span {
+  color: #808080;
+}
+.app__safe {
+  color: #fff;
+}
+.app__stamps > .stamps {
+  justify-content: center;
 }
