@@ -47,11 +47,11 @@ nav.header__nav > a {
   background: #d3d3d3;
 }
 //Espaço do topo
-section.banner-slider {
-    margin-top: 10px;
+div.sections.pb-1.pb-sm-2.pb-lg-4 {
+  margin-top: 10px;
 }
 @media (max-width: 767px) {
-  section.banner-slider {
+div.sections.pb-1.pb-sm-2.pb-lg-4 {
     margin-top: 5px;
  }
 }
