@@ -98,18 +98,6 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
   background-color: #5cb85c;
   border-color: #5cb85c;
 }
-.minicart__btn-checkout.btn.btn-block.btn-primary {
-font-size: 0;
-}
-.minicart__btn-checkout.btn.btn-block.btn-primary i, .minicart__btn-checkout.btn.btn-block.btn-primary::after {
-font-size: 18px;
-}
-.minicart__btn-checkout.btn.btn-block.btn-primary::after {
-content: " Finalizar compra";
-}
-a.cart__btn-checkout.btn.btn-lg.btn-block.btn-success::after {
-content: " Finalizar compra";
-}
 //Pagina do produto
 body#page-products > picture.lozad.fade.img-fluid.show > img {
     border-radius: 20px;
