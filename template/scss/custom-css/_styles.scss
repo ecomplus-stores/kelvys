@@ -9,16 +9,33 @@ body {
   box-shadow: 0 1px 10px 0 #696969; 
 }
 .top-bar {
-  max-width: 100%;
   background-color: #b70000;
   font-size: 13px;
-  font-weight: 400;
+}
+.top-bar__page-links a {
+    font-weight: 400;
 }
 .top-bar a, .header__toggler span, .header__toggler svg, #user-button svg, #cart-button svg {
   color: #fff;
 }
 .header__buttons .btn .badge {
   background-color: #b70000;
+}
+input#search-input.header__search.form-control.form-control {
+    font-size: 15px;
+}
+@media (max-width: 767px) {
+ button.header__search-btn {
+    background: #696969;
+    height: 34px;
+    border-radius: 0rem .4rem .4rem 0rem;
+    right: .1rem;
+ }
+.header__search-btn {
+    margin-top: -1.05rem;
+    font-size: 1.3rem;
+    right: 1rem;
+ }
 }
 .menu__btn.menu__btn--close {
   color: #696969;
