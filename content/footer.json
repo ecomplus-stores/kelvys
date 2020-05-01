@@ -11,7 +11,32 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Camisa Masculina",
+        "url": "https://www.kelvys.com.br/camisas-masculinas/"
+      },
+      {
+        "text": "Camisa Jeans",
+        "url": "https://www.kelvys.com.br/camisa-jeans-masculina/"
+      },
+      {
+        "text": "Camisa Polo",
+        "url": "https://www.kelvys.com.br/camisa-polo-masculina/"
+      },
+      {
+        "text": "Camisetas",
+        "url": "https://www.kelvys.com.br/camisetas-masculinas/"
+      },
+      {
+        "text": "Acessórios",
+        "url": "https://www.kelvys.com.br/acessorios-masculinos/"
+      },
+      {
+        "text": "Looks",
+        "url": "https://www.kelvys.com.br/sugestao-de-looks/"
+      }
+    ]
   },
   "contacts": {
     "title": "Contato",
