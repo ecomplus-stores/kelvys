@@ -98,6 +98,9 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
   background-color: #5cb85c;
   border-color: #5cb85c;
 }
+.minicart__btn-checkout.btn.btn-block.btn-primary::after {
+content: " Finalizar pedido";
+}
 //Pagina do produto
 picture.lozad.fade.img-fluid.show > img {
     border-radius: 20px;
