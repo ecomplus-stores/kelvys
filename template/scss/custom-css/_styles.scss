@@ -1,10 +1,14 @@
 // Add your custom CSS here.
+//Fonte
+body {
+    font-family: Poppins;
+}
 // cabeçalho
 #header {
   background-color: #1c1c1c;
 }
 .top-bar {
-  background-color: #c00;
+  background-color: #b70000;
 }
 .top-bar a, .header__toggler span, .header__toggler svg, #user-button svg, #cart-button svg {
   color: #fff;
@@ -20,6 +24,15 @@
 }
 .menu__item {
   background: #d3d3d3;
+}
+//Espaço do topo
+section.banner-slider {
+    margin-top: 10px;
+}
+@media (max-width: 767px) {
+  section.banner-slider {
+    margin-top: 5px;
+ }
 }
 // main
 // hide banner in to mobile
