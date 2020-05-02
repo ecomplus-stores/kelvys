@@ -95,15 +95,6 @@
       "src": "/img/uploads/trustwave_kelvys.png",
       "alt": "Trust commerce",
       "link": "https://sealserver.trustwave.com/cert.php?customerId=0d61ae2960a14989a44adcc85f3b9e6c"
-    },
-    {
-      "src": "/img/uploads/logo-correios-web.jpg"
-    },
-    {
-      "src": "/img/uploads/logo-jadlog-web.jpg"
-    },
-    {
-      "src": "/img/uploads/logo-asaplog-web.jpg"
     }
   ],
   "payment_methods": {
