@@ -12,6 +12,10 @@
         "url": "https://www.kelvys.com.br/"
       },
       {
+        "text": "Contato",
+        "url": "https://www.kelvys.com.br/contato"
+      },
+      {
         "text": "Quem Somos",
         "url": "https://www.kelvys.com.br/pagina/sobre"
       },
@@ -24,16 +28,16 @@
         "url": "https://www.kelvys.com.br/pagina/pagamento"
       },
       {
-        "text": "Depoimentos de Clientes",
+        "text": "Depoimentos",
         "url": "https://www.kelvys.com.br/pagina/depoimentos-de-clientes"
-      },
-      {
-        "text": "Política de Privacidade",
-        "url": "https://www.kelvys.com.br/pagina/privacidade"
       },
       {
         "text": "Trocas e Devoluções",
         "url": "https://www.kelvys.com.br/pagina/trocas"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "https://www.kelvys.com.br/pagina/privacidade"
       }
     ]
   },
