@@ -59,6 +59,9 @@ nav.header__nav > a {
 .menu__item {
   background: #d3d3d3;
 }
+a#c-5e3dcaf862887026009f7499, a#c-5e3dcafc62887026009f74a1, a#c-5e3dcaf562887026009f7493 { 
+    display: none;
+}
 //Espaço do topo
 div.sections.pb-1.pb-sm-2.pb-lg-4 {
   margin-top: 10px;
@@ -176,14 +179,4 @@ div.col-12.col-xl-5.order-lg-first > p {
   font-size: 1rem !important;
   content: 'Finalizar compra';
   margin-left: .2rem;
-}
-.stamps {
-list-style: none;
-display: flex;
-align-items: center;
-flex-wrap: nowrap;
-overflow-x: auto;
-padding: 0;
-margin: 0;
-max-width: 100%;
 }
