@@ -177,3 +177,13 @@ div.col-12.col-xl-5.order-lg-first > p {
   content: 'Finalizar compra';
   margin-left: .2rem;
 }
+.stamps {
+list-style: none;
+display: flex;
+align-items: center;
+flex-wrap: nowrap;
+overflow-x: auto;
+padding: 0;
+margin: 0;
+max-width: 100%;
+}
