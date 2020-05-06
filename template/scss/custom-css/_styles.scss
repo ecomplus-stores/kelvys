@@ -105,9 +105,6 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
   border-color: #5cb85c;
 }
 //Pagina do produto
-body#page-products > .banner picture img {
-    border-radius: 20px;
-}
 .product__name {
     font-size: 1.5rem;
 }
@@ -119,6 +116,9 @@ body#page-products > .banner picture img {
 }
 .prices__discount {
     margin-top: 5px;
+}
+.prices--big .prices__value {
+    font-size: 2.3rem;
 }
 //Esconde variação cor e quantidade
 .product__short-stock {
