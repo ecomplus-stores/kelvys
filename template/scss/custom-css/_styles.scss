@@ -184,3 +184,6 @@ a.payment__gateway.list-group-item.list-group-item-action {
     border: 1px solid #696969;
     background: #f7f7f7;
 }
+a.payment__gateway.list-group-item.list-group-item-action > img.payment__stamp {
+    max-width: 75%;
+}
