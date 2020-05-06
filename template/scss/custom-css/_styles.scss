@@ -175,11 +175,6 @@ div.col-12.col-xl-5.order-lg-first > p {
 .minicart__btn-checkout.btn, .cart__info .cart__btn-checkout {
   font-size: 0px;
 }
-.minicart__btn-checkout.btn::after, .minicart__btn-checkout.btn svg, .cart__info .cart__btn-checkout::after, .cart__info .cart__btn-checkout svg {
-  font-size: 1rem !important;
-  content: 'Finalizar compra';
-  margin-left: .2rem;
-}
 a.payment__gateway.list-group-item.list-group-item-action {
     border: 1px solid #696969;
     background: #f7f7f7;
