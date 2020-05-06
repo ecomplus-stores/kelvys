@@ -84,18 +84,18 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/selo-parcelamento_6x_b1-min.png",
+      "src": "/img/uploads/selo-lojaprefere_b2-min.png",
       "alt": "PayPal Plus"
+    },
+    {
+      "src": "/img/uploads/version-vertical-small-min.png"
     },
     {
       "src": "/img/uploads/selo-paghiper-min.png",
       "alt": "Paghiper"
     },
     {
-      "src": "/img/uploads/version-vertical-small-min.png"
-    },
-    {
-      "src": "/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/selo_safebrowsingkelvys.png",
       "alt": "Secure connection",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.kelvys.com.br"
     },
@@ -103,6 +103,10 @@
       "src": "/img/uploads/trustwave_kelvys.png",
       "alt": "Trust commerce",
       "link": "https://sealserver.trustwave.com/cert.php?customerId=0d61ae2960a14989a44adcc85f3b9e6c"
+    },
+    {
+      "src": "/img/uploads/paypal_kelvys.png",
+      "alt": "Compra Segura"
     }
   ],
   "payment_methods": {
