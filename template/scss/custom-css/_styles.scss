@@ -136,7 +136,7 @@ div.col-12.col-xl-5.order-lg-first > p {
 }
 .footer__credits {
   text-align: center;
-  border-top: 1px solid #000;
+  border-top: 1px solid #1c1c1c;
 }
 //Box Newsletter Benchmark
 .formbox-editor-950475 {  border-radius: 15px; }
@@ -179,4 +179,10 @@ div.col-12.col-xl-5.order-lg-first > p {
   font-size: 1rem !important;
   content: 'Finalizar compra';
   margin-left: .2rem;
+}
+a.payment__gateway.list-group-item.list-group-item-action {
+    border: 2px solid #696969
+}
+span.payment__head {
+    background: #e4e4e4;
 }
