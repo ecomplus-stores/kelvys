@@ -85,28 +85,26 @@
   "stamps": [
     {
       "src": "/img/uploads/selo-lojaprefere_b2-min.png",
-      "alt": "PayPal Plus"
+      "alt": "Essa Loja Prefere"
     },
     {
-      "src": "/img/uploads/version-vertical-small-min.png"
-    },
-    {
-      "src": "/img/uploads/selo-paghiper-min.png",
-      "alt": "Paghiper"
+      "src": "/img/uploads/mercadopago.png",
+      "alt": "Mercado Pago"
     },
     {
       "src": "/img/uploads/selo_safebrowsingkelvys.png",
-      "alt": "Secure connection",
+      "alt": "Ambiente Seguro - Google Safe Browsing",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.kelvys.com.br"
     },
     {
-      "src": "/img/uploads/trustwave_kelvys.png",
-      "alt": "Trust commerce",
-      "link": "https://sealserver.trustwave.com/cert.php?customerId=0d61ae2960a14989a44adcc85f3b9e6c"
+      "src": "/img/uploads/nortonsafeweb.png",
+      "alt": "Ambiente Seguro - Norton Safe Web",
+      "link": "https://safeweb.norton.com/report/show?url=www.kelvys.com.br"
     },
     {
-      "src": "/img/uploads/paypal_kelvys.png",
-      "alt": "Compra Segura"
+      "src": "/img/uploads/trustwave_kelvys.png",
+      "alt": "Site Seguro",
+      "link": "https://sealserver.trustwave.com/cert.php?customerId=0d61ae2960a14989a44adcc85f3b9e6c"
     }
   ],
   "payment_methods": {
