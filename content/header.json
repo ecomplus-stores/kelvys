@@ -6,10 +6,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Rastrear pedido",
-        "link": "https://www2.correios.com.br/sistemas/rastreamento/"
-      },
-      {
         "title": "Atendimento",
         "link": "https://www.kelvys.com.br/contato"
       }
