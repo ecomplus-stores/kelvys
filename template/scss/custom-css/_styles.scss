@@ -180,9 +180,6 @@ div.col-12.col-xl-5.order-lg-first > p {
   content: 'Finalizar compra';
   margin-left: .2rem;
 }
-aside.minicart__aside.card.shadow {
-    width: 335px;
-}
 a.payment__gateway.list-group-item.list-group-item-action {
     border: 1px solid #696969;
     background: #f7f7f7;
@@ -190,17 +187,5 @@ a.payment__gateway.list-group-item.list-group-item-action {
 a.payment__gateway.list-group-item.list-group-item-action > img.payment__stamp {
     max-width: 75%;
 }
-//Icone Whatsapp
-#ws_icon_chat {
-position: fixed;
-bottom: 19px;
-left: 15px;
-z-index: 2000;
-cursor: pointer;
-outline: none !important;
-}
-#ws_icon_chat img {
-width: 46px !important;
-margin-right: 20px
-}
+
 
