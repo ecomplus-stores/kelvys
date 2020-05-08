@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": false,
-    "title": "Páginas",
+    "title": "Informações Úteis",
     "list": [
       {
         "text": "Início",
@@ -30,6 +30,10 @@
       {
         "text": "Depoimentos",
         "url": "https://www.kelvys.com.br/pagina/depoimentos-de-clientes"
+      },
+      {
+        "text": "Rastrear Pedido",
+        "url": "https://www2.correios.com.br/sistemas/rastreamento/"
       },
       {
         "text": "Trocas e Devoluções",
