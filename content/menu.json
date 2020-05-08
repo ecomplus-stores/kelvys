@@ -11,6 +11,6 @@
     "bermuda-masculina",
     "camisa-feminina"
   ],
-  "phone_wpp": false,
+  "phone_wpp": true,
   "socials": true
 }
