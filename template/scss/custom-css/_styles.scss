@@ -123,6 +123,12 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
 .prices--big .prices__value {
     font-size: 2.2rem;
 }
+div.product-card.product-card > div.prices__installments::before {
+content: 'até ';
+}
+div.product-card.product-card > div.prices__installments::after {
+content: ' sem juros';
+}
 //Esconde variação quantidade
 .product__short-stock {
     display: none;
