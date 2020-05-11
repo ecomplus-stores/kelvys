@@ -142,7 +142,7 @@ div.col-12.col-xl-5.order-lg-first > p {
 div.formbox-editor-950475 {  
    border-radius: 15px; 
 }
-.formbox-title-950475, input.formbox-field-950475, button.formbox-button-950475 {
+div.formbox-title-950475, input.formbox-field-950475, button.formbox-button-950475 {
     font-family: Poppins, sans-serif !important;
 }
 @media (min-width: 1010px)  {
@@ -153,6 +153,11 @@ div.formbox-editor-950475 {
  div.formbox-editor-950475 input.formbox-field-950475 {  
       width: 90%;
  }
+}
+@media (max-width: 767px)  {
+    div.formbox-title-950475 {
+        font-size: 17px;
+    }
 }
  // checkout
 .app__header {
