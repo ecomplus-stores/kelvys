@@ -117,7 +117,7 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
 .prices__discount {
     margin-top: 5px;
 }
-.prices__discount > span {
+body#page-home, body#page-products >.prices__discount > span {
     color: #b70000;
 }
 .prices--big .prices__value {
