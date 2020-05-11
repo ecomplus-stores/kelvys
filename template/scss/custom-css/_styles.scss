@@ -139,21 +139,17 @@ div.col-12.col-xl-5.order-lg-first > p {
   border-top: 1px solid #1c1c1c;
 }
 //Box Newsletter Benchmark
-.formbox-editor-950475 {  
+div.formbox-editor-950475 {  
+   font-family: Poppins, sans-serif !important;
    border-radius: 15px; 
 }
-div.formbox-editor-950475 .formbox-title-950475 {
-    font-family: Poppins,Poppins, sans-serif !important;
-}
-div.formbox-editor-950475 input.formbox-field-950475 {
-    font-family: Poppins, Poppins, sans-serif;
-    width: 90%;
-}
- @media (min-width: 1010px)  {
+@media (min-width: 1010px)  {
    div.formbox-editor-950475 button.formbox-button-950475 {
-    font-family: Poppins, Poppins, sans-serif !important;
-    margin: -50px 0;
+    margin: -62px 0;
     float: right;
+ }
+ div.formbox-editor-950475 input.formbox-field-950475 {  
+      width: 90%;
  }
 }
  // checkout
