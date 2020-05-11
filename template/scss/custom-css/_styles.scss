@@ -142,14 +142,14 @@ div.col-12.col-xl-5.order-lg-first > p {
 .formbox-editor-950475 {  border-radius: 15px; }
  @media (min-width: 1010px)  {
    div.formbox-editor-950475 .formbox-title-950475 {
-     font-family: Poppins,Poppins !important;
+     font-family: Poppins, sans-serif !important;
    }
    div.formbox-editor-950475 input.formbox-field-950475 {
-     font-family: Poppins, Poppins;
+     font-family: Poppins, sans-serif !important;
      width: 90%;
    }
    div.formbox-editor-950475 button.formbox-button-950475 {
-     font-family: Poppins, Poppins !important;
+     font-family: Poppins, sans-serif !important;
      margin: -50px 0;
      float: right;
    }
