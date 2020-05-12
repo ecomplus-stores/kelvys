@@ -195,5 +195,11 @@ a.payment__gateway.list-group-item.list-group-item-action {
 a.payment__gateway.list-group-item.list-group-item-action > img.payment__stamp {
     max-width: 75%;
 }
-
+span.badge.badge-success.payment__discount::before {
+   font-size: 12px;
+   content: "5% de desconto";
+}
+span.badge.badge-success.payment__discount {
+   font-size: 0px !important
+}
 
