@@ -117,10 +117,10 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
 .prices__discount {
     margin-top: 5px;
 }
-body#page-home > .prices__discount > span {
+body#page-home .prices__discount > span {
      color: #b70000;
 }    
-body#page-products > .prices__discount > span {
+body#page-products .prices__discount > span {
     color: #b70000;
 }    
 .prices--big .prices__value {
@@ -199,7 +199,7 @@ a.payment__gateway.list-group-item.list-group-item-action > img.payment__stamp {
     max-width: 75%;
 }
 span.badge.badge-success.payment__discount::before {
-   font-size: 1rem;
+   font-size: .75rem;
    content: "5% de desconto";
 }
 span.badge.badge-success.payment__discount {
