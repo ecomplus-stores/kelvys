@@ -124,7 +124,7 @@ body#page-products .prices__discount > span {
     font-size: 2.2rem;
 }
 section#product-description.product-description.my-4.my-lg-5 > div.html-clearfix {
-    text-align: justify;
+    text-align: justify !important;
 }
 //Esconde quantidade estoque
 .product__short-stock {
