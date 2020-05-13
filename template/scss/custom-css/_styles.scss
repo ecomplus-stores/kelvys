@@ -123,6 +123,9 @@ body#page-products .prices__discount > span {
 .prices--big .prices__value {
     font-size: 2.2rem;
 }
+section#product-description.product-description.my-4.my-lg-5 > div.html-clearfix > p {
+    text-align: justify;
+}
 //Esconde quantidade estoque
 .product__short-stock {
     display: none;
@@ -203,6 +206,9 @@ span.badge.badge-success.payment__discount {
     font-size: 0px !important;
     padding: .2rem;
 }
+aside.minicart__aside.card.shadow {
+    width: 335px;
+}
 //Icone Whatsapp
 #ws_icon_chat {
 position: fixed;
@@ -216,6 +222,4 @@ outline: none !important;
 width: 42px !important;
 margin-right: 20px
 }
-aside.minicart__aside.card.shadow {
-    width: 335px;
-}
+
