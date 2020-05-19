@@ -242,6 +242,9 @@ div.modalContent__image {
     border: 2px solid #fff !important;
     margin-top: 3px !important;
 }
+.content__monkeyRewards a {
+    display: none;
+}
 //Esconde campos na busca
 div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.search-engine__filter--idade {
     display: none;
