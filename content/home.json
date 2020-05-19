@@ -78,10 +78,6 @@
       "shuffle": true,
       "collection_id": "5ea9e9125ac4060578b69688",
       "link": "https://www.kelvys.com.br/camisa-polo-masculina/"
-    },
-    {
-      "type": "custom-html",
-      "html": "<script type=\"text/javascript\" src=\"//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js\" data-dojo-config=\"usePlainJson: true, isDebug: false\"></script><script type=\"text/javascript\">window.dojoRequire([\"mojo/signup-forms/Loader\"], function(L) { L.start({\"baseUrl\":\"mc.us12.list-manage.com\",\"uuid\":\"845f927393440c92b484ef254\",\"lid\":\"7eb4e10172\",\"uniqueMethods\":true}) })</script>\n"
     }
   ]
 }
