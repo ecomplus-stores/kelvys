@@ -232,15 +232,15 @@ margin-right: 20px
     color: #fff;
 }
 div#dijit__TemplatedMixin_5.content__monkeyRewards {
-    display: none;
+    display: none !important;
 }
 div.mc-layout__modalContent {
     height: auto;
     width: auto;
 }
 div.modalContent__image {
-    border: 2px solid #fff;
-    margin-top: 3px;
+    border: 2px solid #fff !important;
+    margin-top: 3px !important;
 }
 //Esconde campos na busca
 div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.search-engine__filter--idade {
