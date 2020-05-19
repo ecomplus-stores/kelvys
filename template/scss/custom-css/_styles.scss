@@ -231,4 +231,7 @@ margin-right: 20px
 #mc_embed_signup .mc-field-group label {
     color: #fff;
 }
-
+//Esconde campos na busca
+div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter search-engine__filter--idade {
+    display: none;
+}
