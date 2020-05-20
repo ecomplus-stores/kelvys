@@ -231,9 +231,6 @@ margin-right: 20px
 #mc_embed_signup .mc-field-group label {
     color: #fff;
 }
-div#dijit__TemplatedMixin_5.content__monkeyRewards {
-    display: none !important;
-}
 div.mc-layout__modalContent {
     height: auto;
     width: auto;
@@ -242,8 +239,11 @@ div.modalContent__image {
     border: 2px solid #fff !important;
     margin-top: 3px !important;
 }
-.content__monkeyRewards a {
-    display: none;
+div#mce-error-response.response {
+    color: #6969;
+}
+div#mce-error-response.response > a {
+    color: #696;
 }
 //Esconde campos na busca
 div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.search-engine__filter--idade {
