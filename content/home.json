@@ -45,17 +45,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/camisa-photo-by-mihai-stefan-on-unsplash.jpg",
+          "img": "/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash.jpg",
           "alt": "Camisa masculina",
           "link": "https://www.kelvys.com.br/camisa-masculina/"
         },
         {
-          "img": "/img/uploads/camisa-jeans-photo-by-red-hat-factory-on-unsplash.jpg",
+          "img": "/img/uploads/camisa-jeans-masculina-photo-by-red-hat-factory-on-unsplash.jpg",
           "alt": "Camisa Jeans Masculina",
           "link": "https://www.kelvys.com.br/camisa-jeans-masculina/"
         },
         {
-          "img": "/img/uploads/sueter-photo-by-lino-montes-on-unsplash.jpg",
+          "img": "/img/uploads/sueter-masculino-photo-by-lino-montes-on-unsplash.jpg",
           "alt": "Acessórios ",
           "link": ""
         }
