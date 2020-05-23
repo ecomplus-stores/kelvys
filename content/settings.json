@@ -15,8 +15,8 @@
   "icon": "/img/uploads/kelvys-camisas.jpg",
   "large_icon": "/img/uploads/kelvys-camisas.jpg",
   "favicon": "/img/uploads/logoleaotransparente-iconep.png",
+  "country_code": "BR",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "currency_symbol": "R$"
 }
