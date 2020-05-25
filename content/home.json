@@ -7,23 +7,23 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-web.jpg",
+          "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v2.jpg",
           "link": "https://www.kelvys.com.br/camisa-masculina/",
           "alt": "Camisa Masculina",
           "start": "",
           "end": ""
         },
         {
-          "img": "/img/uploads/full-camisetas-photo-by-ruben-puerta-unsplash-web2.jpg",
-          "link": "https://www.kelvys.com.br/camisetas-masculinas/",
-          "alt": "Acessórios",
+          "img": "/img/uploads/full-camisa-polo-photo-by-daoudi-aissa-unsplash-v2.jpg",
+          "alt": "Camisa Polo Masculina",
+          "link": "https://www.kelvys.com.br/camisa-polo-masculina/",
           "start": "",
           "end": ""
         },
         {
-          "img": "/img/uploads/full-avaliacoes-phtoto-by-joao-cruz-unsplash-web.jpg",
-          "alt": "Avaliações dos Clientes",
-          "link": "https://www.kelvys.com.br/pagina/depoimentos-de-clientes",
+          "img": "/img/uploads/full-camisetas-phtoto-by-logan-weaver-unsplash-v2.jpg",
+          "link": "https://www.kelvys.com.br/camisetas-masculinas/",
+          "alt": "Acessórios",
           "start": "",
           "end": ""
         }
