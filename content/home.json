@@ -7,7 +7,7 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-web.jpg",
+          "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash.jpg",
           "link": "https://www.kelvys.com.br/camisa-masculina/",
           "alt": "Camisa Masculina",
           "start": "2020-04-11T05:54:06.750Z",
@@ -21,14 +21,14 @@
           "end": ""
         },
         {
-          "img": "/img/uploads/acessorios-web.jpg",
-          "link": "https://www.kelvys.com.br/acessorios-masculinos/",
+          "img": "/img/uploads/full-camisetas-photo-by-ruben-puerta-unsplash.jpg",
+          "link": "https://www.kelvys.com.br/camisetas-masculinas/",
           "alt": "Acessórios",
           "start": "",
           "end": ""
         },
         {
-          "img": "/img/uploads/full-opinioes-photo-by-joao-cruz-unsplash.jpg",
+          "img": "/img/uploads/full-avaliacoes-phtoto-by-joao-cruz-unsplash.jpg",
           "alt": "Avaliações dos Clientes",
           "link": "https://www.kelvys.com.br/pagina/depoimentos-de-clientes",
           "start": "",
