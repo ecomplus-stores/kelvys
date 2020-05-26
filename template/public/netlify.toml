@@ -1,0 +1,6 @@
+// [[redirects]]
+ from = "" // exemplo /grid/10007
+ to = "" // exemplo /conjunto
+ status = 301
+ force = true
+// basta repitir esse bloco para mais e mais redirecionamentos
