@@ -88,14 +88,6 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/selo-lojaprefere_b2-min.png",
-      "alt": "Essa Loja Prefere"
-    },
-    {
-      "src": "/img/uploads/mercadopago.png",
-      "alt": "Mercado Pago"
-    },
-    {
       "src": "/img/uploads/selo_safebrowsingkelvys.png",
       "alt": "Ambiente Seguro - Google Safe Browsing",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.kelvys.com.br"
