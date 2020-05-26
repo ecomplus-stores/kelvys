@@ -1,42 +1,34 @@
-// [[redirects]]
  from = "https://www.kelvys.com.br/contato"
  to = "https://www.kelvys.com.br/pages/contato"
  status = 301
  force = true
-//
-// [[redirects]]
+
  from = "https://www.kelvys.com.br/pagina/sobre"
  to = "https://www.kelvys.com.br/pages/sobre-nos"
  status = 301
  force = true
-//
-// [[redirects]]
+
  from = "https://www.kelvys.com.br/pagina/enderecos"
  to = "https://www.kelvys.com.br/pages/enderecos"
  status = 301
  force = true
-//
-// [[redirects]]
+
  from = "https://www.kelvys.com.br/pagina/pagamento"
  to = "https://www.kelvys.com.br/pages/como-comprar"
  status = 301
  force = true
-//
-// [[redirects]]
+
  from = "https://www.kelvys.com.br/pagina/depoimentos-de-clientes"
  to = "https://www.kelvys.com.br/pages/depoimentos-de-clientes"
  status = 301
  force = true
-//
-// [[redirects]]
+
  from = "https://www.kelvys.com.br/pagina/trocas"
  to = "https://www.kelvys.com.br/pages/trocas"
  status = 301
  force = true
-//
-// [[redirects]]
+
  from = "https://www.kelvys.com.br/pagina/privacidade"
  to = "https://www.kelvys.com.br/pages/privacidade"
  status = 301
  force = true
-//
