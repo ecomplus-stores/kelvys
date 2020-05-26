@@ -1,22 +1,22 @@
 {
-  "store_id": 1035,
-  "domain": "kelvys-camis.netlify.app",
-  "name": "Kelvy's Camisas",
-  "short_name": "Kelvy's",
-  "description": "Muito mais do que confeccionar camisas masculinas, camisas femininas, calças, camisetas visamos qualidade, bom preço e sua satisfação. Estamos voltados para o público que não abre mão da qualidade das roupas que usa, nem do seu estilo próprio. Com um preço justo, podemos incentivar ainda mais os desejos e estilos de cada um que adquire nossos produtos. Estamos nesse ramo há bastante tempo, 25 anos. E o que mais importa pra gente é tentar proporcionar o bem estar de quem usa nossas roupas.",
+  "domain": "www.kelvys.com.br",
+  "currency_symbol": "R$",
   "primary_color": "#1c1c1c",
-  "secondary_color": "#1c1c1c",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/kelvyscamisaseplus-web.png",
-  "mini_logo": "",
-  "icon": "/img/uploads/kelvys-camisas.jpg",
-  "large_icon": "/img/uploads/kelvys-camisas.jpg",
-  "favicon": "/img/uploads/logoleaotransparente-iconep.png",
-  "country_code": "BR",
+  "name": "Kelvy's Camisas",
+  "short_name": "Kelvy's",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logoleaotransparente-iconep.png",
+  "country_code": "BR",
+  "secondary_color": "#1c1c1c",
+  "icon": "/img/uploads/kelvys-camisas.jpg",
+  "store_id": 1035,
+  "description": "Muito mais do que confeccionar camisas masculinas, camisas femininas, calças, camisetas visamos qualidade, bom preço e sua satisfação. Estamos voltados para o público que não abre mão da qualidade das roupas que usa, nem do seu estilo próprio. Com um preço justo, podemos incentivar ainda mais os desejos e estilos de cada um que adquire nossos produtos. Estamos nesse ramo há bastante tempo, 25 anos. E o que mais importa pra gente é tentar proporcionar o bem estar de quem usa nossas roupas.",
+  "large_icon": "/img/uploads/kelvys-camisas.jpg"
 }
