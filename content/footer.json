@@ -101,6 +101,10 @@
       "src": "/img/uploads/trustwave_kelvys.png",
       "alt": "Site Seguro",
       "link": "https://sealserver.trustwave.com/cert.php?customerId=0d61ae2960a14989a44adcc85f3b9e6c"
+    },
+    {
+      "src": "/img/uploads/selo-lojaprefere_b2-min.png",
+      "alt": "Essa Loja Prefere PayPal"
     }
   ],
   "payment_methods": {
