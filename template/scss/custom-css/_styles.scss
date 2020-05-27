@@ -235,3 +235,16 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
     height: 2500px;
 }
 
+#iframeJadLog-block { 
+    width: 100%; 
+    height: 2150px; 
+    overflow: hidden; 
+    position: relative; 
+    border-radius: 6px;
+}
+#iframeJadlog { 
+    position: absolute; 
+    top: -230px; 
+    width: 100%; 
+    height: 2500px;
+}
