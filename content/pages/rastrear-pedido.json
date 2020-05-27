@@ -2,5 +2,11 @@
   "title": "Rastrear Pedido",
   "body": "Nessa página você pode rastraer seu pedido, utilizamos os Correios e algumas transportadoras para enviar nossas camisas, basta clicar colocar os dados do rastreamento ou CPF para verificar.\n\n![Rastrear pedido Correios](/img/uploads/logo-correios-web.jpg \"Rastrear pedidos Correios\")   [clique aqui](http://www2.correios.com.br/sistemas/rastreamento/)\n\n![Rastrear pedido JadLog](/img/uploads/logo-jadlog-web.jpg \"Rastrear pedido JadLog\")   [clique aqui](https://www.jadlog.com.br/jadlog/home)\n\n![Rastrear pedido Asaplog](/img/uploads/logo-asaplog-web.jpg \"Rastrar pedido Asaplog\")   [clique aqui](https://asaplog.com.br/rastrear-encomenda/)",
   "meta_title": "Rastrear seu pedido",
-  "meta_description": "Nessa página você pode rastrear seus pedidos na Kelvys camisas, aqui estão os métodos de envio que utilizamos em nossa loja."
+  "meta_description": "Nessa página você pode rastrear seus pedidos na Kelvys camisas, aqui estão os métodos de envio que utilizamos em nossa loja.",
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "<img style=\"width: 250px;\" src=\"https://cdn.ecvol.com/s/www.kelvys.com.br/uploads/ML-Depoimentos.png\">\n<div id=\"iframeJadLog-block\"><iframe name=\"'iframeJadLog'\" id=\"iframeJadLog\" src=\"https://www.jadlog.com.br/jadlog/home\" scrolling=\"no\" frameborder=\"0\"><br></iframe></div>\n<a href=\"https://perfil.mercadolivre.com.br/KELVYS+CAMISAS\" target=\"_blank\">Mais depoimentos do Mercado Livre</a><p></p>"
+    }
+  ]
 }
