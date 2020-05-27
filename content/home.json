@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 4000,
       "slides": [
         {
           "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v2.jpg",
