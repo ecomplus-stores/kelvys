@@ -235,31 +235,6 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
     height: 2150px;
 }
 //Rastrear pedidos
-#iframeJadLog-block { 
-    width: 100%; 
-    height: 250px; 
-    overflow: hidden; 
-    position: relative; 
-    border-radius: 6px;
-}
-#iframeJadLog { 
-    width: 100%; 
-    height: 150px;
-}
-div#app.-avatar {
-    display: none !important;
-}
-#iframeAsapLog-block { 
-    width: 100%; 
-    height: 250px; 
-    overflow: hidden; 
-    position: relative; 
-    border-radius: 6px;
-}
-#iframeAsapLog { 
-    width: 90%; 
-    height: 150px;
-}
 #iframeCorreios-block { 
     width: 100%; 
     height: 650px; 
@@ -271,4 +246,25 @@ div#app.-avatar {
     width: 100%; 
     height: 545px;
 }
-
+#iframeJadLog-block { 
+    width: 100%; 
+    height: 400px; 
+    overflow: hidden; 
+    position: relative; 
+    border-radius: 6px;
+}
+#iframeJadLog { 
+    width: 100%; 
+    height: 350px;
+}
+#iframeAsapLog-block { 
+    width: 100%; 
+    height: 900px; 
+    overflow: hidden; 
+    position: relative; 
+    border-radius: 6px;
+}
+#iframeAsapLog { 
+    width: 90%; 
+    height: 800px;
+}
