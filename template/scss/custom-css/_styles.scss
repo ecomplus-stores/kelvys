@@ -232,20 +232,43 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
     position: absolute; 
     top: -230px; 
     width: 100%; 
-    height: 2500px;
+    height: 2150px;
 }
-
+//Rastrear pedidos
 #iframeJadLog-block { 
     width: 100%; 
-    height: 2150px; 
+    height: 250px; 
     overflow: hidden; 
     position: relative; 
     border-radius: 6px;
 }
 #iframeJadLog { 
     width: 100%; 
-    height: 500px;
+    height: 150px;
 }
 div#app.-avatar {
-    display: none;
+    display: none !important;
 }
+#iframeAsapLog-block { 
+    width: 100%; 
+    height: 250px; 
+    overflow: hidden; 
+    position: relative; 
+    border-radius: 6px;
+}
+#iframeAsapLog { 
+    width: 90%; 
+    height: 150px;
+}
+#iframeCorreios-block { 
+    width: 100%; 
+    height: 650px; 
+    overflow: hidden; 
+    position: relative; 
+    border-radius: 6px;
+}
+#iframeCorreios { 
+    width: 100%; 
+    height: 545px;
+}
+
