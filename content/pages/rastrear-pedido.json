@@ -9,6 +9,14 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "Rastrear um pedido"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/logo-correios-web.jpg",
       "link": "https://www2.correios.com.br/sistemas/rastreamento/",
