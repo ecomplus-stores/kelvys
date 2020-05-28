@@ -235,5 +235,5 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
     height: 2200px;
 }
 body#page-products > div#product-payment-111223.mb-3, body#page-products > div#product-payment-1250.mb-3 > div.col-lg  {
-    display: none;
+    display: none !important;
 }
