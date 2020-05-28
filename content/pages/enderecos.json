@@ -1,6 +1,12 @@
 {
   "title": "Endereços",
-  "body": "<!--StartFragment-->\n\nEndereços:\\\nLoja KELVY'S CAMISAS\\\nAvenida Brasil Nº 3434 Loja 03 e Loja 40\\\nShopping. Center Brasil\\\nCentro - Maringá-PR\\\n(44) 3033-8088\\\n\\\nLoja KELVY'S SHOWROOM\\\nRua Pioneiro Arlindo Pedralli Nº 1424 Sala 01\\\nJd. Santa Helena - Maringá-PR\\\n(44) 99180-8130\\\n\\\n\\\nHorário Funcionamento:\\\nSegunda à Sexta: das 09:00 às 18:30hs\\\nSábados (dois primeiros de cada mês): das 9:00 às 18:00hs\\\nSábados: (dois últimos de cada mês) das 9:00 - 14:00hs\\\nDomingos: Fechado\n\n<!--EndFragment-->",
+  "body": "<!--StartFragment-->\n\nEndereços:\\\nLoja KELVY'S CAMISAS\\\nAvenida Brasil Nº 3434 Loja 03 e Loja 40\\\nShopping. Center Brasil\\\nCentro - Maringá-PR\\\n(44) 3033-8088\\\n(44) 3033-8130\\\n\\\nLoja KELVY'S SHOWROOM\\\nRua Pioneiro Arlindo Pedralli Nº 1424 Sala 01\\\nJd. Santa Helena - Maringá-PR\\\n(44) 99180-8130\\\n\\\n\\\nHorário Funcionamento:\\\nSegunda à Sexta: das 09:00 às 18:30hs\\\nSábados (dois primeiros de cada mês): das 9:00 às 18:00hs\\\nSábados: (dois últimos de cada mês) das 9:00 - 14:00hs\\\nDomingos: Fechado\n\n<!--EndFragment-->",
   "meta_title": "Endereços Kelvy's Camisas",
-  "meta_description": "Estamos com nossas lojas localizadas em Maringá - PR, uma no bairro e outra bem no centro da cidade, no Shopping Center Brasil."
+  "meta_description": "Estamos com nossas lojas localizadas em Maringá - PR, uma no bairro e outra bem no centro da cidade, no Shopping Center Brasil.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    }
+  ]
 }
