@@ -5,6 +5,10 @@
   "meta_description": "Nessa página você pode rastrear seus pedidos na Kelvys camisas, aqui estão os métodos de envio que utilizamos em nossa loja.",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/logo-correios-web.jpg",
       "link": "https://www2.correios.com.br/sistemas/rastreamento/",
