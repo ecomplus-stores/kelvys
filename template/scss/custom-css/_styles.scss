@@ -123,6 +123,9 @@ body#page-products .prices__discount > span {
 .prices--big .prices__value {
     font-size: 2.2rem;
 }
+div#product-payment-1250.mb-3  {
+    display: none;
+}
 div.html-clearfix {
     text-align: justify;
 }
@@ -234,6 +237,4 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
     width: 100%; 
     height: 2200px;
 }
-div#product-payment-111223.mb-3, div#product-payment-1250.mb-3 > div.col-lg  {
-    display: none;
-}
+
