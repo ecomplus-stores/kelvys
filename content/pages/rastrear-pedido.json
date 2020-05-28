@@ -3,10 +3,5 @@
   "body": "Nessa página você pode rastrear seu pedido, utilizamos os Correios e algumas transportadoras para enviar nossas camisas, basta clicar colocar os dados do rastreamento ou CPF para verificar, ou acessando o site da transportadora.\n",
   "meta_title": "Rastrear seu pedido",
   "meta_description": "Nessa página você pode rastrear seus pedidos na Kelvys camisas, aqui estão os métodos de envio que utilizamos em nossa loja.",
-  "sections": [
-    {
-      "type": "custom-html",
-      "html": "<div id=\"iframeCorreios-block\"><iframe name=\"'iframeCorreios'\" id=\"iframeCorreios\" src=\"https://www2.correios.com.br/sistemas/rastreamento/\" scrolling=\"no\" frameborder=\"0\"><br></iframe></div>\n<div id=\"iframeJadLog-block\"><iframe name=\"'iframeJadLog'\" id=\"iframeJadLog\" src=\"https://www.jadlog.com.br/jadlog/home\" scrolling=\"no\" frameborder=\"0\"><br></iframe></div>\n<div id=\"iframeAsapLog-block\"><iframe name=\"'iframeAsapLog'\" id=\"iframeAsapLog\" src=\"https://asaplog.com.br/rastrear-encomenda/\" scrolling=\"no\" frameborder=\"0\"><br></iframe></div>\n"
-    }
-  ]
+  "sections": []
 }
