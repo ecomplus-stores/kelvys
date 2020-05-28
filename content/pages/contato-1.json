@@ -5,6 +5,13 @@
     {
       "type": "breadcrumbs",
       "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
     }
   ],
   "meta_title": "Contato",
