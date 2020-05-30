@@ -75,7 +75,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "offers"
+      "sort": "offers",
+      "title": "Ofertas"
     },
     {
       "type": "custom-html",
