@@ -10,6 +10,10 @@
       "type": "page-title"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine-contato-photo-by-freddy-castro-unsplash.jpg"
+    },
+    {
       "type": "extra-page",
       "enabled": true
     }
