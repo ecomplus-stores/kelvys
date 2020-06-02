@@ -41,7 +41,7 @@
  force = true
 
  [[redirects]]
- from = "https://www.kelvys.com.br/pages/contato-1"
- to = "https://www.kelvys.com.br/pages/contato"
+ from = "https://www.kelvys.com.br/pages/contato"
+ to = "https://www.kelvys.com.br/pages/contato-1"
  status = 301
  force = true
