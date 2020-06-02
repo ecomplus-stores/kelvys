@@ -39,3 +39,9 @@
  to = "https://www.kelvys.com.br/pages/privacidade"
  status = 301
  force = true
+
+ [[redirects]]
+ from = "https://www.kelvys.com.br/pages/contato-1"
+ to = "https://www.kelvys.com.br/pages/contato"
+ status = 301
+ force = true
