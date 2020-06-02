@@ -1,0 +1,23 @@
+{
+  "body": "<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSc8IcW4wKKUxs7BIn59OYcE91Pu_JmxbEgYXgYmVxDBdfGFZw/viewform?embedded=true\" width=\"700\" height=\"520\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Carregando…</iframe>",
+  "meta_title": "Contato",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/vitrine-contato-photo-by-freddy-castro-unsplash.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ],
+  "meta_description": "Página de contato dos clientes coma Kelvy's, aqui você pode tirar dúvidas, dar sugestões.",
+  "title": "Contato"
+}
