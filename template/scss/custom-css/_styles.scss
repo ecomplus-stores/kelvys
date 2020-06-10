@@ -111,8 +111,9 @@ div.sections.pb-1.pb-sm-2.pb-lg-4 {
 .product__sku {
     font-size: .75rem;
 }
-.prices__compare {
-    font-size: .9rem;
+span.prices__compare > s {
+    margin-left: .5rem;
+    margin-right: .5rem;
 }
 .prices__discount {
     margin-top: 5px;
