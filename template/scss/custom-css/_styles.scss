@@ -130,6 +130,9 @@ div.html-clearfix {
 div.product__free-shipping-from {
     display: none;
 }
+body#page-products div.prices.prices--literal.prices--big, body#page-products div.mb-2 {
+    margin-top: 1.2rem;
+}
 //Esconde quantidade em estoque
 .product__short-stock {
     display: none;
