@@ -133,6 +133,9 @@ div.product__free-shipping-from {
 body#page-products div.prices.prices--literal.prices--big, body#page-products div.mb-2 {
     margin-top: 1.2rem;
 }
+body#page-products span.product__discount {
+    display: none;
+}
 //Esconde quantidade em estoque
 .product__short-stock {
     display: none;
