@@ -1,6 +1,7 @@
 {
   "store_id": 1035,
   "domain": "www.kelvys.com.br",
+  "name": "Kelvy's Camisas",
   "currency_symbol": "R$",
   "primary_color": "#1c1c1c",
   "theme": {
@@ -9,7 +10,6 @@
   "bg_color": "#ffffff",
   "logo": "/img/uploads/kelvyscamisaseplus-web.png",
   "mini_logo": "",
-  "name": "Kelvy's Camisas",
   "short_name": "Kelvy's",
   "lang": "pt_br",
   "currency": "BRL",
