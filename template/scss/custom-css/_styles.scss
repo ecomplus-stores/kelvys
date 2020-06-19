@@ -136,6 +136,11 @@ body#page-products div.prices.prices--literal.prices--big, body#page-products di
 body#page-products span.product__discount {
     display: none;
 }
+@media (min-width: 767px) {
+  #product-description p img {
+  width: 50%
+}
+} 
 //Esconde quantidade em estoque
 .product__short-stock {
     display: none;
