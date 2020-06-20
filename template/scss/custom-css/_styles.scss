@@ -137,7 +137,7 @@ body#page-products span.product__discount {
     display: none;
 }
 @media (min-width: 767px) {
-  #product-description p img {
+  #product-description .html-clearfix img  {
   width: 50%
 }
 } 
