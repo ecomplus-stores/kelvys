@@ -138,7 +138,7 @@ body#page-products span.product__discount {
 }
 @media (min-width: 767px) {
   #product-description .html-clearfix img  {
-  width: 50%
+   max-width: 50% !important;
 }
 } 
 //Esconde quantidade em estoque
