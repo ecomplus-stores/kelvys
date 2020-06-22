@@ -39,14 +39,10 @@ button.header__search-btn {
     right: .1rem;
     height: 44px;
 }
-button.header__search-btn > svg.svg-inline--fa.fa-search.fa-w-16 {
-    width: .8em;
+button.header__search-btn {
     color: #fff;
 }
 i.header__toggler-icon.fas.fa-bars {
-    color: #fff;
-}
-button#mobile-search-btn.d-lg-none.btn.btn-lg.collapsed > svg.svg-inline--fa.fa-search.fa-w-16 {
     color: #fff;
 }
 nav.header__nav > a {
