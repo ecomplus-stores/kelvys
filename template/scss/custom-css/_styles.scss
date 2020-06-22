@@ -41,7 +41,7 @@ i.header__toggler-icon.fas.fa-bars {
 #search-bar i.fas.fa-search  {
     color: #fff;
 }
-button#mobile-search-btn.d-lg-none.btn.btn-lg.collapsed {
+button#mobile-search-btn.d-lg-none.btn.btn-lg, button#mobile-search-btn.d-lg-none.btn.btn-lg.collapsed {
     color: #fff;
 }
 nav.header__nav > a {
