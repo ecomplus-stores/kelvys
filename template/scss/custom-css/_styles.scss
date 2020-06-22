@@ -11,10 +11,7 @@ body {
 .top-bar__nav {
     max-width: 100%;
 }
-svg.svg-inline--fa.fa-facebook.fa-w-16 {
-    font-size: 18px;
-}
-svg.svg-inline--fa.fa-instagram.fa-w-14 {
+i.fab.fa-facebook,  i.fab.fa-instagram {
     font-size: 18px;
 }
 .top-bar {
@@ -37,12 +34,11 @@ button.header__search-btn {
     background: #696969;
     border-radius: 0rem .3rem .3rem 0rem;
     right: .1rem;
-    height: 44px;
-}
-button.header__search-btn {
-    color: #fff;
 }
 i.header__toggler-icon.fas.fa-bars {
+    color: #fff;
+}
+#search-bar i.fas.fa-search  {
     color: #fff;
 }
 nav.header__nav > a {
