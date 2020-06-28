@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
-  "disablePages": true,
+  "disablePages": false,
   "options": {
     "badgePosition": "INLINE",
     "dialogPosition": "CENTER_DIALOG",
