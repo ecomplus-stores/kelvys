@@ -8,6 +8,4 @@
     "badgePosition": "INLINE",
     "dialogPosition": "CENTER_DIALOG",
     "gmcMerchantId": 112714036
-  },
-  "stampsAppend": "src/append/stamps"
-}
+  }
