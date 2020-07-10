@@ -105,11 +105,6 @@
     {
       "src": "/img/uploads/selo-lojaprefere_b2-min.png",
       "alt": "Essa Loja Prefere PayPal"
-    },
-    {
-      "src": "/img/uploads/selo_google_kelvys.png",
-      "alt": "Google Avaliações do Consumidor",
-      "link": "https://www.google.com/shopping/customerreviews/merchantreviews?q=kelvys.com.br"
     }
   ],
   "payment_methods": {
