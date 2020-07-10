@@ -17,10 +17,6 @@
     },
     {
       "type": "custom-html",
-      "html": "<!-- Trustvox -->\n<script type=\"text/javascript\" src=\"//colt.trustvox.com.br/colt.min.js\"></script> \n<script>\n  var _trustvox_colt = _trustvox_colt || [];\n  _trustvox_colt.push(['_storeId', '6552'], ['_limit', '7']);\n</script>\n<!-- /Trustvox -->\n<div id=\"_trustvox_colt\"></div>"
-    },
-    {
-      "type": "custom-html",
       "html": "<iframe id='AV_widget_iframe' frameBorder=\"0\" width=\"100%\" height=\"100%\" src=\"//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/widget4/8c7c2c69-7520-d754-f544-483d6a0625cbhorizontal_index.html\"></iframe>"
     },
     {
