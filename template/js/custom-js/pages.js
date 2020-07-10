@@ -6,5 +6,5 @@ $("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554
 }
 //Fim
 
-$('div class="opinioes"></div').appendTo('footer__stamps');
+$('div class="opinioes"></div').appendTo('.footer__stamps');
 $('<meta class="netreviewsWidget" id="netreviewsWidgetNum3835" data-jsurl="//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/widget4/widget01-3835_script.js"/><script src="//cl.avis-verifies.com/br/widget4/widget01_FB3.min.js"></script>').appendTo('.opinioes');
