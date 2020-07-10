@@ -7,6 +7,6 @@ $("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554
 //Fim
 
 
-$('<div class="netreviewsWidget"></div>').append('.footer__stamps');
+$('<div class="netreviewsWidgetNum3835"></div>').appendTo('.footer__stamps');
 
 
