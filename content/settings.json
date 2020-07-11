@@ -1,22 +1,23 @@
 {
-  "store_id": 1035,
-  "name": "Kelvy's Camisas",
-  "short_name": "Kelvy's",
   "domain": "www.kelvys.com.br",
   "currency_symbol": "R$",
   "primary_color": "#1c1c1c",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/kelvyscamisaseplus-web.png",
-  "mini_logo": "",
+  "name": "Kelvy's Camisas",
+  "short_name": "Kelvy's",
   "lang": "pt_br",
   "currency": "BRL",
+  "mini_logo": "",
   "favicon": "/img/uploads/logoleaotransparente-iconep.png",
   "country_code": "BR",
   "secondary_color": "#1c1c1c",
   "icon": "/img/uploads/kelvys-e-com-plus-icon.png",
-  "description": "Muito mais do que confeccionar camisas masculinas, camisas femininas, calças, camisetas visamos qualidade, bom preço e sua satisfação. Estamos voltados para o público que não abre mão da qualidade das roupas que usa, nem do seu estilo próprio. Com um preço justo, podemos incentivar ainda mais os desejos e estilos de cada um que adquire nossos produtos. Estamos nesse ramo há bastante tempo, 25 anos. E o que mais importa pra gente é tentar proporcionar o bem estar de quem usa nossas roupas.",
+  "store_id": 1035,
+  "description": "Muito mais do que confeccionar camisas masculinas, polos, camisetas visamos qualidade, bom preço e sua satisfação. Estamos voltados para o público que não abre mão da qualidade das roupas que usa, nem do seu estilo próprio. Com um preço justo, podemos incentivar ainda mais os desejos e estilos de cada um que adquire nossos produtos. Estamos nesse ramo há bastante tempo, 25 anos. E o que mais importa pra gente é tentar proporcionar o bem estar de quem usa nossas roupas.",
   "large_icon": "/img/uploads/kelvys-e-com-plus-large-icon.png"
 }
