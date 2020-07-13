@@ -14,7 +14,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<div class=\"NETREVIEWS_PRODUCT_STARS\" data-product-id=\"{{ product__sku }}\"></div>"
+      "html": "<div class=\"NETREVIEWS_PRODUCT_STARS\" data-product-id=\"{{ sku }}\"></div>"
     },
     {
       "type": "product-description",
