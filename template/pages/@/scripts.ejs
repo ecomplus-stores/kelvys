@@ -33,4 +33,8 @@ const customCode = _.cms('code')
 if (customCode) {
   %> <%- customCode.html_body %> <%
 }
+
+<% if (_.route.resource === 'products') { %>
+  <script charset="utf-8" src="//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/AWS/PRODUCT_API/tag.min.js" async></script>
+<% } %>
 %>

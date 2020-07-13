@@ -47,6 +47,10 @@
               COD: <%= _.state.sku %>
             </p>
           </div>
+          
+          <div data-slot="rating">
+            <div class="NETREVIEWS_PRODUCT_REVIEWS" data-product-id="<%= _.state.sku %>"></div>
+          </div>
 
           <% if (_.state.available && _.state.visible && _.ecomUtils.inStock(_.state)) { %>
             <div class="product__price prices prices--big">
@@ -100,6 +104,8 @@
     <%- await include('@/helpers/widgets-append', {
       _, opt: {}, field: 'productBlockAppend'
     }) %>
+    
+    <div class="NETREVIEWS_PRODUCT_REVIEWS" data-product-id="<%= _.state.sku %>"></div>
   </div>
 </div>
 
