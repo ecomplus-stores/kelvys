@@ -5,6 +5,6 @@
   "options": {
     "buyText": "",
     "buy": "",
-    "footer": "<div class=\"NETREVIEWS_PRODUCT_STARS\" data-product-id=\"{{product__sku}}\"></div>"
+    "footer": "<script charset=\"utf-8\" src=\"//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/AWS/PRODUCT_API/tag.min.js\"></script>\n<div class=\"NETREVIEWS_PRODUCT_STARS\" data-product-id=\"{{product__sku}}\"></div>"
   }
 }
