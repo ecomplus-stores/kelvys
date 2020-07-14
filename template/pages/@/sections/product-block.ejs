@@ -49,7 +49,7 @@
           </div>
           
           <div data-slot="rating">
-            <div class="NETREVIEWS_PRODUCT_REVIEWS" data-product-id="<%= _.state.sku %>"></div>
+            <div class="NETREVIEWS_PRODUCT_STARS" data-product-id="storefront.context.body.sku"></div>
           </div>
 
           <% if (_.state.available && _.state.visible && _.ecomUtils.inStock(_.state)) { %>
