@@ -13,6 +13,6 @@
   "bodyAppend": "src/append/body",
   "options": {
     "stamp": "<meta class=\"netreviewsWidget\" id=\"netreviewsWidgetNum3835\" data-jsurl=\"//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/widget4/widget01-3835_script.js\"/><script src=\"//cl.avis-verifies.com/br/widget4/widget01_FB3.min.js\"></script>",
-    "tagJs": "<script charset=\"utf-8\" src=\"//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/AWS/PRODUCT_API/tag.min.js\"></script>\n<div class=\"NETREVIEWS_PRODUCT_STARS\" data-product-id=\"{{ sku }}\"></div>\n<div class=\"NETREVIEWS_PRODUCT_REVIEWS\" data-product-id=\"{{ sku }}\"></div>"
+    "tagJs": "<script charset=\"utf-8\" src=\"//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/AWS/PRODUCT_API/tag.min.js\"></script>\n<div class=\"NETREVIEWS_PRODUCT_STARS\" data-product-id=\"{{ sku }}\"></div>\n<div class=\"NETREVIEWS_PRODUCT_REVIEWS\" data-product-id=\"{{ sku }}\" data-product-price=\"{{ price }}\" data-product-name=\"{{ name }}\" data-product-url=\"{{ slug }}\" data-product-img-url=\"{{ pictures[0].zoom }}\" data-product-rs-id=\"{{ sku }}\"></div>\n"
   }
 }
