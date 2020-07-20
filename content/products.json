@@ -17,6 +17,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<iframe src=\"//cl.avis-verifies.com/medias/components/html/iframe/8c7c2c69-7520-d754-f544-483d6a0625cb_iframe.html#?idWebsite=8c7c2c69-7520-d754-f544-483d6a0625cb&productId={{sku}}&token=b7767691b8dd6d4a70f0f2c5893318225e330777&firstName={{firstName}}&lastName={{lastName}}&email={{email}}&category={{category}}&productPage={{productPage}}\" id=\"myQAIframe\"></iframe> <script type=\"text/javascript\" src=\"//cl.avis-verifies.com/medias/components/html/js/iframeResizer.min.js\"></script> <script type=\"text/javascript\"> (function(){ iFrameResize({log:true}, \"#myQAIframe\"); })(); </script>"
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
