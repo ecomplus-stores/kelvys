@@ -255,19 +255,22 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
 
 //Opiniões Verificadas
 #page-home .product-card .netreviews_review_rate_and_stars {
-    height: 10px;
+    height: 5px;
     min-height: 5px;
-    margin-top: -18px;
+    margin-top: -5px;
+}
+#page-home .netreviews_review_rate {
+    display: none;
 }
 .netreviews_bg_stars div, .netreviews_review_rate_and_stars div {
-    font-size: 16px;
+    font-size: 16px !important;
 }
 #netreviews_reviews_tab {
-    width: 78%;
-    font-family: Poppins,sans-serif;
+    width: 78% !important;
+    font-family: Poppins,sans-serif !important;
 }
 p.netreviews_customer_review {
     font-size: 1rem;
-    font-family: Poppins, sans-serif;
+    font-family: Poppins, sans-serif !important;
 }
 
