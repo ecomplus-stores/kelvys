@@ -5,9 +5,3 @@ if($(window).width() < 480) {
 $("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554491808130");
 }
 //Fim
-//Estrelinhas em produtos não avaliados
-$(".product-card__pictures").each(function() {
-  if(!$(this).children(".rating").length)
-    $('<div class="rating"> <i class="fa fa-star-o-x5"></i> </div>').insertAfter($(this).children("h3"));
-});
-//Fim
