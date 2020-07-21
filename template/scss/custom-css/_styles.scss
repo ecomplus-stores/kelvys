@@ -140,8 +140,8 @@ body#page-products span.product__discount {
    max-width: 50% !important;
 }
 } 
-.product__sku {
-    margin-bottom: 0;
+#page-products p.product__sku {
+    margin-bottom: 0 !important;
 }
 //Esconde quantidade em estoque
 .product__short-stock {
@@ -272,4 +272,7 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
 p.netreviews_customer_review {
     font-size: 1rem;
     font-family: Poppins, sans-serif !important;
+}
+#page-home div.netreviews_reviews_rate  {
+    font-size: 0 !important;
 }
