@@ -260,10 +260,10 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
     margin-top: -5px;
 }
 #page-home .netreviews_review_rate {
-    display: none;
+    display: none !important;
 }
 .netreviews_bg_stars div, .netreviews_review_rate_and_stars div {
-    font-size: 16px !important;
+    font-size: 14px !important;
 }
 #netreviews_reviews_tab {
     width: 78% !important;
@@ -273,4 +273,6 @@ p.netreviews_customer_review {
     font-size: 1rem;
     font-family: Poppins, sans-serif !important;
 }
-
+#page-products .netreviews_review_rate_and_stars {
+top: -15px;
+}
