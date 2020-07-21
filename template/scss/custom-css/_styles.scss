@@ -266,7 +266,7 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
     font-size: 14px !important;
 }
 #netreviews_reviews_tab {
-    width: 78% !important;
+    width: 75% !important;
     font-family: Poppins,sans-serif !important;
 }
 p.netreviews_customer_review {
@@ -275,4 +275,8 @@ p.netreviews_customer_review {
 }
 #page-home div.netreviews_reviews_rate  {
     font-size: 0 !important;
+}
+.fa-star-o-x5::before {
+    content: "\f005  \f005  \f005  \f005  \f005  ";
+    color: #dfdfdf;
 }
