@@ -140,6 +140,9 @@ body#page-products span.product__discount {
    max-width: 50% !important;
 }
 } 
+.product__sku {
+    margin-bottom: 0;
+}
 //Esconde quantidade em estoque
 .product__short-stock {
     display: none;
