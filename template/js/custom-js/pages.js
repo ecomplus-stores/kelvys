@@ -5,8 +5,3 @@ if($(window).width() < 480) {
 $("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554491808130");
 }
 //Fim
-
-
-$('<div class="netreviewsWidgetNum3835"></div>').appendTo('.footer__stamps');
-
-
