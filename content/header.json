@@ -16,11 +16,12 @@
   "categories_list": {
     "featured": [
       "/camisas-masculinas?Camisa Masculina",
+      "/camisa-social-masculina?Camisa Social",
       "/camisa-polo-masculina?Camisa Polo",
-      "/camisa-jeans-masculina?Camisa Jeans",
-      "/sueter-masculino?Sueter"
+      "/colecao-camisetas?Camisetas"
     ],
-    "random": 0
+    "random": 0,
+    "full_width": false
   },
   "search_input": true
 }
