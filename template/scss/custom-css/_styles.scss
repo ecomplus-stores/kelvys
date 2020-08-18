@@ -280,12 +280,12 @@ div.recommended-products div.netreviews_reviews_rate  {
 }
 //Aviso de Greve Correios
 .shipping-calculator__services::before {
-  content: "⚠️ GREVE DOS CORREIOS ⚠️ Devido à greve dos Correios, poderá ocorrer atraso no recebimento de seu produto.";
-  border: 1px solid #a30000;
-  color: #cc0000;
-  border-radius: 2rem;
-  padding: 1.5rem;
-  font-size: 1.2rem;
+  content: "⚠️ GREVE DOS CORREIOS! Devido a isso, poderá ocorrer atraso no recebimento de seu produto.";
+  border: 1px solid #b70000;
+  color: #b70000;
+  border-radius: 1rem;
+  padding: 1rem;
+  font-size: .8rem;
   display: inherit;
   margin-bottom: 1rem;
 }
