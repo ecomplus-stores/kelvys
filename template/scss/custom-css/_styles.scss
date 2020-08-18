@@ -255,7 +255,6 @@ div.search-engine__filter.search-engine__filter--cor, div.search-engine__filter.
 #___ratingbadge_0 {
     display: none !important;
 }
-
 //Opiniões Verificadas
 #page-home .product-card .netreviews_review_rate_and_stars {
     height: 5px;
@@ -278,5 +277,16 @@ p.netreviews_customer_review {
 }
 div.recommended-products div.netreviews_reviews_rate  {
     font-size: 0 !important;
+}
+//Aviso de Greve Correios
+.shipping-calculator__services::before {
+  content: "⚠️ GREVE DOS CORREIOS ⚠️ Devido à greve dos Correios, poderá ocorrer atraso no recebimento de seu produto.";
+  border: 1px solid #a30000;
+  color: #cc0000
+  border-radius: 2rem;
+  padding: 1.5rem;
+  font-size: 1.2rem;
+  display: inherit;
+  margin-bottom: 1rem
 }
 
