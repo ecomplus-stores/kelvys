@@ -279,17 +279,9 @@ div.recommended-products div.netreviews_reviews_rate  {
     font-size: 0 !important;
 }
 //Instagram Rodapé
-#page-home section.md-content.mb-5.pt-1.pt-sm-2.pt-lg-3::before {
-    content: "\f16d";
-    font-family: 'Fontawesome';
-    position: absolute;
-    left: -19px;
-    top: -2px;
-    padding-right: 5px;
-    font-size: 24px;
-}
 #page-home section.md-content.mb-5.pt-1.pt-sm-2.pt-lg-3 {
-     text-align: center;
+    text-align: center;
+    font-size: 1.2rem;
 }
 //Aviso de Greve Correios
 .shipping-calculator__services::before {
