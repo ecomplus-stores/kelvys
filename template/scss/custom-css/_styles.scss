@@ -286,13 +286,9 @@ div.recommended-products div.netreviews_reviews_rate  {
 #page-home section.md-content.mb-5.pt-1.pt-sm-2.pt-lg-3::before {
     content: "\f16d";
     font-family: FontAwesome;
-    position: absolute;
-    margin-left: -54px;
-    top: 2px;
-    padding: 10px;
     padding-right: 5px;
     font-weight: 300 !important;
-    font-size: 40px;
+    font-size: 30px;
     background: -webkit-radial-gradient(33% 100% circle,#fed373 4%,#f15245 30%,#d92e7f 62%,#9b36b7 85%,#515ecf);
     background: radial-gradient(circle at 33% 100%,#fed373 4%,#f15245 30%,#d92e7f 62%,#9b36b7 85%,#515ecf);
     -webkit-background-clip: text;
