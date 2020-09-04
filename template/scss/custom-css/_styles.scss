@@ -283,6 +283,22 @@ div.recommended-products div.netreviews_reviews_rate  {
     text-align: center;
     font-size: 1.2rem;
 }
+.instagram-feed:before {
+    content: "\f16d";
+    font-family: FontAwesome;
+    position: absolute;
+    margin-left: -54px;
+    top: 2px;
+    padding: 10px;
+    padding-right: 5px;
+    font-weight: 300 !important;
+    font-size: 40px;
+    background: -webkit-radial-gradient(33% 100% circle,#fed373 4%,#f15245 30%,#d92e7f 62%,#9b36b7 85%,#515ecf);
+    background: radial-gradient(circle at 33% 100%,#fed373 4%,#f15245 30%,#d92e7f 62%,#9b36b7 85%,#515ecf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-font-smoothing: antialiased;
+}
 //Aviso de Greve Correios
 .shipping-calculator__services::before {
   content: "⚠️ GREVE DOS CORREIOS! Devido a isso, poderá ocorrer atraso no recebimento de seu produto.";
