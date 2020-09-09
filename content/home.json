@@ -78,7 +78,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "![](/img/uploads/icone_instagram.png) Siga nosso instagram **[@kelvyscamisas](<a href=\"https://www.instagram.com/kelvyscamisas/\" target=\"_blank\" </a>)**\r\n"
+      "markdown": "![](/img/uploads/icone_instagram.png) Siga nosso instagram **[@kelvyscamisas]<a href=\"#\" onclick=\"window.open('https://www.instagram.com/kelvyscamisas/');\"></a>**"
     },
     {
       "type": "custom-html",
