@@ -288,6 +288,24 @@ div.recommended-products div.netreviews_reviews_rate  {
      margin-right: 3px;
      width: 30px;
 }
+//Vídeo responsivo Youtube
+.embed-container-youtube {
+ position: relative;
+ padding-bottom: 56.25%;
+ height: 0;
+ overflow: hidden;
+ max-width: 100%;
+ height: auto;
+ margin-top: 30px;
+ margin-bottom: 30px;
+}
+.embed-container-youtube iframe, .embed-container-youtube object, .embed-container-youtube embed {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+}
 //Aviso de Greve Correios
 .shipping-calculator__services::before {
   content: "⚠️ GREVE DOS CORREIOS! Devido a isso, poderá ocorrer atraso no recebimento de seu produto.";
