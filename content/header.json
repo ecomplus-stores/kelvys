@@ -6,12 +6,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Atendimento",
-        "link": "https://www.kelvys.com.br/contato"
-      },
-      {
         "title": "Blog",
         "link": "https://www.kelvys.com.br/blog"
+      },
+      {
+        "title": "Atendimento",
+        "link": "https://www.kelvys.com.br/contato"
       }
     ],
     "phone_wpp": true,
