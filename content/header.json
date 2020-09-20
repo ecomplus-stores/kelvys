@@ -8,6 +8,10 @@
       {
         "title": "Atendimento",
         "link": "https://www.kelvys.com.br/contato"
+      },
+      {
+        "title": "Blog",
+        "link": "https://www.kelvys.com.br/blog"
       }
     ],
     "phone_wpp": true,
