@@ -45,3 +45,11 @@
  to = "https://www.kelvys.com.br/pages/contato-1"
  status = 301
  force = true
+
+[[redirects]]
+ from = "https://blog.kelvys.com.br"
+ to = "https://www.kelvys.com.br/blog"
+ status = 301
+ force = true
+ 
+ 
