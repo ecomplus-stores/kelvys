@@ -143,6 +143,24 @@ body#page-products span.product__discount {
 #page-products p.product__sku {
     margin-bottom: 0 !important;
 }
+.page--products .product__prices .prices__installments:before {
+    content: "";
+    background-image: url(https://www.kelvys.com.br/img/uploads/credit-card.png);
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    margin-right: .5rem;
+    vertical-align: middle;
+}
+.page--products .product__prices .prices__discount:before {
+    content: "";
+    background-image: url(https://www.kelvys.com.br/img/uploads/qr-code.png);
+    width: 16px;
+    height: 11px;
+    display: inline-block;
+    margin-right: .5rem;
+    vertical-align: middle;
+}
 //Esconde quantidade em estoque
 .product__short-stock {
     display: none;
