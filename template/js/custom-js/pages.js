@@ -8,8 +8,8 @@ $("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554
 // Criar campo
 if(screen.width >= 768){ 
    // cria campo abaixo contato
-  $('<div class="formas-de-pagamento"></div>').appendTo('.col-12.col-lg-auto.order-lg-last');
+  $('<div class="formas-de-pagamento"></div>').appendTo('.footer__contacts');
   // move as imagens dos cartoes
-  $('mt-4.mb-3').appendTo('.formas-de-pagamento'); 
+  $('.mt-4.mb-3').appendTo('.formas-de-pagamento'); 
 }
 //Fim
