@@ -13,3 +13,9 @@ if(screen.width >= 768){
   $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
+// Titulo formas de pagamento
+if(screen.width >= 768){
+     $('<div class="title-pagamento"></div>').appendTo('.formas-de-pagamento');
+     $('<b>Pague com</b>').appendTo('.title-pagamento'); 
+}
+//Fim
