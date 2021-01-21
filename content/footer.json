@@ -108,7 +108,7 @@
     }
   ],
   "payment_methods": {
-    "bb": false,
+    "bb": true,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -116,7 +116,7 @@
     "elo": true,
     "hipercard": true,
     "hsbc": false,
-    "bradesco": false,
+    "bradesco": true,
     "santander": false,
     "mastercard": true,
     "paypal": false,
@@ -125,7 +125,7 @@
     "diners": true,
     "mais": false,
     "amex": true,
-    "itau": false
+    "itau": true
   },
   "credits": ""
 }
