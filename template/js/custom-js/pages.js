@@ -10,6 +10,6 @@ if(screen.width >= 768){
    // cria campo abaixo contato
   $('<div class="formas-de-pagamento"></div>').appendTo('.footer__contacts');
   // move as imagens dos cartoes
-  $('.mt-4.mb-3').appendTo('.formas-de-pagamento'); 
+  $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
