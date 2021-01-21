@@ -8,7 +8,7 @@ $("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554
 // Cria campo novo de certificados e move eles pra dentro
 if(screen.width >= 768){ 
    // cria campo novo embaixo do footer
-  $('<div class="certificados"></div>').appendTo('.footer.py-3.py-lg-4.py-xl-5 >.container> .row');
+  $('<div class="certificados"></div>').appendTo('.footer.py-3.py-lg-4.py-xl-5 >.container >.row');
   // move os selos pra dentro desse novo campo
   $('.footer__stamps').appendTo('.certificados'); 
 }
