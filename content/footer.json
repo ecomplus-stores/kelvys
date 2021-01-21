@@ -86,7 +86,6 @@
     "email": true,
     "address": true
   },
-  "footer__stamps_title":"Certificados",
   "stamps": [
     {
       "src": "/img/uploads/selo_safebrowsingkelvys.png",
