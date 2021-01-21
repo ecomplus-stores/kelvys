@@ -187,6 +187,14 @@ div.col-12.col-xl-5.order-lg-first > p {
   text-align: center;
   border-top: 1px solid #1c1c1c;
 }
+@media (min-width: 767px) {
+   .footer__stamps {
+       width: 780px;
+ }
+}
+.footer__stamps:before {
+content: 'Certificados';
+}
 // checkout
 .app__header {
   background: #1c1c1c;
