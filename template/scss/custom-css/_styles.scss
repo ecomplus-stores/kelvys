@@ -189,7 +189,10 @@ div.col-12.col-xl-5.order-lg-first > p {
 }
 @media (min-width: 767px) {
    .footer__stamps {
-       width: 780px;
+       width: 1140px;
+ }
+.footer__stamps > ul.stamps {
+    justify-content: center;
  }
 }
 // checkout
