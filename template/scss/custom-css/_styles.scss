@@ -161,17 +161,9 @@ body#page-products span.product__discount {
     margin-right: .3rem;
     vertical-align: middle;
 }
-//Oculta opções de pagamento
-.product__payment.card.mb-3 {
+//Oculta informações pagamento, compartilhamento e estoque
+.product__payment.card.mb-3, #product-actions .btn.share, .product__short-stock {
    display: none;
-}
-//Oculta compartilhamento
-#product-actions .btn.share {
-display: none;
-}
-//Oculta quantidade em estoque
-.product__short-stock {
-    display: none;
 }
 // footer
 footer.footer.py-3.py-lg-4.py-xl-5 {
