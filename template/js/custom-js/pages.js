@@ -16,6 +16,6 @@ if(screen.width >= 768){
 // Titulo formas de pagamento
 if(screen.width >= 768){
      $('<div class="title-pagamento"></div>').appendTo('.footer__contacts');
-     $('Pague com').appendTo('.title-pagamento'); 
+     $('<b>Pague com</b>').appendTo('.title-pagamento'); 
 }
 //Fim
