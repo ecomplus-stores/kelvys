@@ -187,6 +187,11 @@ div.col-12.col-xl-5.order-lg-first > p {
     justify-content: center;
  }
 }
+.title-pagamento > b {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-light);
+    color: var(--dark);
+}
 // checkout
 .app__header {
   background: #1c1c1c;
