@@ -108,7 +108,6 @@
     }
   ],
   "payment_methods": {
-    "title": "Pague com",
     "bb": false,
     "visa": true,
     "boleto": true,
