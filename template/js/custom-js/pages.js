@@ -5,6 +5,12 @@ if($(window).width() < 480) {
 $("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554491808130");
 }
 //Fim
+// Titulo formas de pagamento
+if(screen.width >= 768){
+     $('<div class="title-pagamento"></div>').appendTo('.footer__contacts');
+     $('<b>Pague com</b>').appendTo('.title-pagamento'); 
+}
+//Fim
 // Criar campo
 if(screen.width >= 768){ 
    // cria campo abaixo contato
@@ -13,9 +19,4 @@ if(screen.width >= 768){
   $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
-// Titulo formas de pagamento
-if(screen.width >= 768){
-     $('<div class="title-pagamento"></div>').appendTo('.footer__contacts');
-     $('<b>Pague com</b>').appendTo('.title-pagamento'); 
-}
-//Fim
+
