@@ -6,7 +6,7 @@ body {
 // cabeçalho
 #header {
   background-color: #1c1c1c;
-  box-shadow: 0 1px 10px 0 #696969; 
+  box-shadow: 0 1px 10px 0 var(--primary-lightest); 
 }
 .top-bar__nav {
     max-width: 100%;
@@ -15,7 +15,7 @@ i.fab.fa-facebook,  i.fab.fa-instagram {
     font-size: 18px;
 }
 .top-bar {
-  background-color: #b70000;
+  background-color: var(--primary-lightest);
   font-size: var(--font-size-sm);
 }
 .top-bar__page-links a {
@@ -25,13 +25,13 @@ i.fab.fa-facebook,  i.fab.fa-instagram {
   color: #fff;
 }
 .header__buttons .btn .badge {
-  background-color: #b70000;
+  background-color: var(--primary-lightest);
 }
 input#search-input.header__search-input.form-control {
     font-size: 15px;
 }
 button.header__search-btn {
-    background: #696969;
+    background: var(--primary-lightest);
     border-radius: 0rem .3rem .3rem 0rem;
     right: .1rem;
 }
@@ -50,10 +50,10 @@ nav.header__nav > a {
 }
 //Menu lateral
 .menu__btn.menu__btn--close {
-  color: #696969;
+  color: var(--primary-lightest);
 }
 .menu__btn.btn.collapsed {
-  color:#696969;
+  color: var(--primary-lightest);
 }
 .menu__item {
   background: #d3d3d3;
@@ -195,14 +195,14 @@ div.col-12.col-xl-5.order-lg-first > p {
 // checkout
 .app__header {
   background: #1c1c1c;
-  box-shadow: 0 1px 10px 0 #696969;
+  box-shadow: 0 1px 10px 0 var(--primary-lightest);
   color: #fff;
 }
 .app__contact span:not(:first-child) {
   color: #fff;
 }
 .app__contact span {
-  color: #808080;
+  color: var(--primary-lightest);
 }
 .app__safe {
   color: #fff;
@@ -219,7 +219,7 @@ div.col-12.col-xl-5.order-lg-first > p {
   margin-left: .2rem;
 }
 a.payment__gateway.list-group-item.list-group-item-action {
-    border: 1px solid #696969;
+    border: 1px solid var(--primary-lightest);
     background: #f7f7f7;
 }
 a.payment__gateway.list-group-item.list-group-item-action > img.payment__stamp {
