@@ -5,7 +5,7 @@ body {
 }
 // cabeçalho
 #header {
-  background-color: #1c1c1c;
+  background-color: #111111;
   box-shadow: 0 1px 10px 0 var(--primary-lightest); 
 }
 .top-bar__nav {
@@ -177,7 +177,7 @@ div.col-12.col-xl-5.order-lg-first > p {
 }
 .footer__credits {
   text-align: center;
-  border-top: 1px solid #1c1c1c;
+  border-top: 1px solid #111111;
 }
 @media (min-width: 767px) {
    .footer__stamps {
@@ -194,7 +194,7 @@ div.col-12.col-xl-5.order-lg-first > p {
 }
 // checkout
 .app__header {
-  background: #1c1c1c;
+  background: #111111;
   box-shadow: 0 1px 10px 0 var(--primary-lightest);
   color: #fff;
 }
