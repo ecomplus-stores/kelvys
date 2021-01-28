@@ -10,7 +10,7 @@ body {
 .top-bar__nav {
     max-width: 100%;
 }
-i.fab.fa-facebook,  i.fab.fa-instagram {
+i.fab.fa-facebook,  i.fab.fa-instagram, i.fab.fa-pinterest {
     font-size: 18px;
 }
 .top-bar {
@@ -182,7 +182,7 @@ div.col-12.col-xl-5.order-lg-first > p {
     font-weight: var(--font-light);
     color: var(--dark);
 }
-.footer__social .fab.fa-facebook, .footer__social .fab.fa-instagram {
+.footer__social .fab.fa-facebook, .footer__social .fab.fa-instagram, .footer__social .fab.fa-pinterest {
     font-size: 30px !important;
 }
 // checkout
