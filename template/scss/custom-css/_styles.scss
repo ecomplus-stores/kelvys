@@ -192,6 +192,9 @@ div.col-12.col-xl-5.order-lg-first > p {
     font-weight: var(--font-light);
     color: var(--dark);
 }
+.footer__social .fab.fa-facebook, .footer__social .fab.fa-instagram {
+    font-size: 30px !important;
+}
 // checkout
 .app__header {
   background: #111111;
