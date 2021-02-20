@@ -19,7 +19,7 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner-tarja-8pix-min.png",
       "alt": "Tarja Frete",
-      "mobile_img": "/img/uploads/banner-tarja-8pix-min.png"
+      "mobile_img": ""
     },
     {
       "type": "banners-grid",
@@ -28,19 +28,19 @@
           "img": "/img/uploads/camisa-jeans-masculina-photo-by-red-hat-factory-on-unsplash-web.jpg",
           "alt": "Camisa Jeans Masculina",
           "link": "https://www.kelvys.com.br/camisa-jeans-masculina",
-          "mobile_img": "https://www.kelvys.com.br/img/uploads/camisa-jeans-masculina-photo-by-red-hat-factory-on-unsplash-web.jpg"
+          "mobile_img": "/img/uploads/m-camisa-jeans-masculina-photo-by-red-hat-factory-on-unsplash-web.jpg"
         },
         {
           "img": "/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg",
           "alt": "Camisa masculina",
           "link": "https://www.kelvys.com.br/camisas-masculinas",
-          "mobile_img": "https://www.kelvys.com.br/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg"
+          "mobile_img": "/img/uploads/m-camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg"
         },
         {
           "img": "/img/uploads/camiseta-masculina-photo-harrison-kugler-on-unsplash-web.jpg",
           "alt": "Camiseta Masculina",
           "link": "https://www.kelvys.com.br/camisetas-masculinas",
-          "mobile_img": "https://www.kelvys.com.br/img/uploads/camiseta-masculina-photo-harrison-kugler-on-unsplash-web.jpg"
+          "mobile_img": "/img/uploads/m-camiseta-masculina-photo-harrison-kugler-on-unsplash-web.jpg"
         }
       ]
     },
