@@ -3,31 +3,11 @@
   "meta_description": "Somos uma marca de camisa masculina, camisas com qualidade e preço justo.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "slides": [
-        {
-          "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v3.jpg",
-          "link": "https://www.kelvys.com.br/camisas-masculinas",
-          "alt": "Camisa Masculina",
-          "start": "",
-          "end": ""
-        },
-        {
-          "img": "/img/uploads/full-camisa-polo-photo-by-daoudi-aissa-unsplash-v2.jpg",
-          "alt": "Camisa Polo Masculina",
-          "link": "https://www.kelvys.com.br/camisa-polo-masculina",
-          "start": "",
-          "end": ""
-        },
-        {
-          "img": "/img/uploads/full-camisetas-phtoto-by-logan-weaver-unsplash-v2.jpg",
-          "link": "https://www.kelvys.com.br/camisetas-masculinas",
-          "alt": "Camisetas Masculinas",
-          "start": "",
-          "end": ""
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v3.jpg",
+      "link": "https://www.kelvys.com.br/camisas-masculinas",
+      "alt": "Camisas Masculinas da Kelvy's Camisas",
+      "mobile_img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v3.jpg"
     },
     {
       "type": "responsive-banner",
@@ -40,17 +20,20 @@
         {
           "img": "/img/uploads/camisa-jeans-masculina-photo-by-red-hat-factory-on-unsplash-web.jpg",
           "alt": "Camisa Jeans Masculina",
-          "link": "https://www.kelvys.com.br/camisa-jeans-masculina"
+          "link": "https://www.kelvys.com.br/camisa-jeans-masculina",
+          "mobile_img": "/img/uploads/camisa-jeans-masculina-photo-by-red-hat-factory-on-unsplash-web.jpg"
         },
         {
           "img": "/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg",
           "alt": "Camisa masculina",
-          "link": "https://www.kelvys.com.br/camisas-masculinas"
+          "link": "https://www.kelvys.com.br/camisas-masculinas",
+          "mobile_img": "/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg"
         },
         {
           "img": "/img/uploads/camiseta-masculina-photo-harrison-kugler-on-unsplash-web.jpg",
           "alt": "Camiseta Masculina",
-          "link": "https://www.kelvys.com.br/camisetas-masculinas"
+          "link": "https://www.kelvys.com.br/camisetas-masculinas",
+          "mobile_img": "/img/uploads/camiseta-masculina-photo-harrison-kugler-on-unsplash-web.jpg"
         }
       ]
     },
