@@ -16,17 +16,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "slides": [
-        {
-          "img": "/img/uploads/banner-tarja-8pix-min.png",
-          "start": "",
-          "end": ""
-        }
-      ]
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-tarja-8pix-min.png",
       "alt": "Tarja Frete",
@@ -45,7 +34,7 @@
           "img": "/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg",
           "alt": "Camisa masculina",
           "link": "https://www.kelvys.com.br/camisas-masculinas",
-          "mobile_img": "/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/camiseta-masculina-photo-harrison-kugler-on-unsplash-web.jpg",
