@@ -3,16 +3,23 @@
   "meta_description": "Somos uma marca de camisa masculina, camisas com qualidade e preço justo.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v3.jpg",
-      "link": "https://www.kelvys.com.br/camisas-masculinas",
-      "alt": "Camisas Masculinas da Kelvy's Camisas",
-      "mobile_img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v3.jpg"
+      "type": "banner-slider",
+      "autoplay": 0,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v3.jpg",
+          "link": "https://www.kelvys.com.br/camisas-masculinas",
+          "alt": "Camisas Masculina Kelvy's"
+        }
+      ]
     },
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-tarja-8pix-min.png",
-      "alt": "Tarja Frete"
+      "alt": "Tarja Frete",
+      "mobile_img": "/img/uploads/banner-tarja-8pix-min.png"
     },
     {
       "type": "banners-grid",
