@@ -16,6 +16,17 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "slides": [
+        {
+          "img": "/img/uploads/banner-tarja-8pix-min.png",
+          "start": "",
+          "end": ""
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-tarja-8pix-min.png",
       "alt": "Tarja Frete",
