@@ -66,8 +66,8 @@ a#c-5e3dcaf862887026009f7499, a#c-5e3dcafc62887026009f74a1, a#c-5e3dcaf562887026
   .responsive-baner {
     display: none;
   }
- .banners-grid > div.col-12.col-lg-4.mb-3.mb-lg-0 {
-   max-width: 32% !important;
+div.banners-grid.my-3.my-md-4.my-lg-5 > div.col-12.col-lg-4.mb-3.mb-lg-0 {
+   max-width: 32%;
    padding-right: 5px;
    padding-left: 10px;
  }  
