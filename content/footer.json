@@ -88,10 +88,6 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/protegido-por-paypal.png",
-      "alt": "Protegido por PayPal"
-    },
-    {
       "src": "/img/uploads/selo_safebrowsingkelvys.png",
       "alt": "Ambiente Seguro - Google Safe Browsing",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=www.kelvys.com.br"
@@ -105,27 +101,31 @@
       "src": "/img/uploads/trustwave_kelvys.png",
       "alt": "Site Seguro",
       "link": "https://sealserver.trustwave.com/cert.php?customerId=0d61ae2960a14989a44adcc85f3b9e6c"
+    },
+    {
+      "src": "/img/uploads/protegido-por-paypal.png",
+      "alt": "Protegido por PayPal"
     }
   ],
   "payment_methods": {
+    "bb": false,
     "visa": true,
-    "mastercard": true,
-    "hipercard": true,
-    "amex": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": false,
+    "hipercard": true,
     "hsbc": false,
     "bradesco": false,
     "santander": false,
+    "mastercard": true,
     "paypal": false,
     "citibank": false,
     "hiper": false,
     "diners": false,
     "mais": false,
-    "itau": false,
-    "bb": false
+    "amex": true,
+    "itau": false
   },
   "credits": ""
 }
