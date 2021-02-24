@@ -119,7 +119,7 @@
     "bradesco": false,
     "santander": false,
     "mastercard": true,
-    "paypal": true,
+    "paypal": false,
     "citibank": false,
     "hiper": false,
     "diners": false,
