@@ -280,24 +280,6 @@ p.netreviews_customer_review {
 div.recommended-products div.netreviews_reviews_rate  {
     font-size: 0 !important;
 }
-//Vídeo responsivo blog
-.embed-container-youtube {
- position: relative;
- padding-bottom: 56.25%;
- height: 0;
- overflow: hidden;
- max-width: 100%;
- height: auto;
- margin-top: 30px;
- margin-bottom: 30px;
-}
-.embed-container-youtube iframe, .embed-container-youtube object, .embed-container-youtube embed {
- position: absolute;
- top: 0;
- left: 0;
- width: 100%;
- height: 100%;
-}
 //Texto post blog
 div.blog-post section.md-content.mb-5.pt-1.pt-sm-2.pt-lg-3 {
     text-align: justify;
