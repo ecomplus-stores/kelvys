@@ -3,7 +3,7 @@
 body {
     font-family: Poppins, sans-serif !important;
 }
-// cabeçalho
+//Cabeçalho
 #header {
   background-color: #111111;
 }
@@ -60,7 +60,7 @@ nav.header__nav > a {
 a#c-5e3dcaf862887026009f7499, a#c-5e3dcafc62887026009f74a1, a#c-5e3dcaf562887026009f7493 { 
     display: none;
 }
-// main
+//Main
 .products-carousel__title {
   font-size: 1.3rem;
 }
@@ -146,7 +146,7 @@ body#page-products span.product__discount {
 .product__payment.card.mb-3, #product-actions .btn.share, .product__short-stock {
    display: none;
 }
-// footer
+//Footer
 footer.footer.py-3.py-lg-4.py-xl-5 {
     font-size: .95rem;
 }
@@ -176,7 +176,7 @@ div.col-12.col-xl.order-lg-first > p {
 .footer__social .fab.fa-facebook, .footer__social .fab.fa-instagram, .footer__social .fab.fa-pinterest {
     font-size: 25px !important;
 }
-// checkout
+//Checkout
 .app__header {
   background: #111111;
   box-shadow: 0 1px 10px 0 var(--primary-lightest);
@@ -302,28 +302,28 @@ div.blog-post section.md-content.mb-5.pt-1.pt-sm-2.pt-lg-3 {
   border: var(--border-width) solid var(--border-color);
   padding: 0px;
 }
-//banners
+//Banners
 .banners-grid.my-3.my-md-4.my-lg-5 div.col-12.col-lg-4.mb-3.mb-lg-0 {
    max-width: 33.33%;
    flex: 0 0 33.33%;
    padding-right: 5px;	 
    padding-left: 10px;	
  }
-// hide banner in to mobile
+//Hide banner in to mobile
 @media (max-width: 468px) {
   .responsive-baner {
     display: none;
   }
 }
-// tamanho h1 nas categorias
+//Tamanho h1 nas categorias
 section.category-description.my-4.my-lg-5 h1 {
     font-size: 1.3rem;
 } 
-// check nos envios
+//Check nos envios
 .shipping-calculator__services .list-group .active .shipping-calculator__option:after {
     content: url(/img/uploads/check-envio-m.png);
 }
-//post blog no mobile
+//Post blog no mobile
 @media(max-width: 468px) {
   .blog .container .row .col.col-md-6.col-lg-4 {
     flex-basis: 100% !important;
