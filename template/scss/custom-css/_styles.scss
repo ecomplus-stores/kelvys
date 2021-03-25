@@ -323,3 +323,10 @@ section.category-description.my-4.my-lg-5 h1 {
 .shipping-calculator__services .list-group .active .shipping-calculator__option:after {
     content: url(/img/uploads/check-envio-m.png);
 }
+//post blog no mobile
+@media(max-width: 468px) {
+  .blog .container .row .col.col-md-6.col-lg-4 {
+    flex-basis: 100% !important;
+    margin-bottom: .7rem
+  }
+}
