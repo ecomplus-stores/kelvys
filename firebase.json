@@ -1,6 +1,46 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/contato",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+      {
+        "source": "/pagina/sobre",
+        "destination": "/pages/sobre-nos",
+        "type": 301
+      },
+      {
+        "source": "/pagina/enderecos",
+        "destination": "/pages/enderecos",
+        "type": 301
+      },
+      {
+        "source": "/pagina/pagamento",
+        "destination": "/pages/como-comprar",
+        "type": 301
+      },
+      {
+        "source": "/pagina/depoimentos-de-clientes",
+        "destination": "/pages/depoimentos-de-clientes",
+        "type": 301
+      },
+      {
+        "source": "/pagina/trocas",
+        "destination": "/pages/trocas",
+        "type": 301
+      },
+      {
+        "source": "/pagina/privacidade",
+        "destination": "/pages/privacidade",
+        "type": 301
+      },
+      {
+        "source": "/pages/contato",
+        "destination": "/pages/contato-1",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
