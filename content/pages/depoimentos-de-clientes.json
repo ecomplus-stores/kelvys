@@ -21,7 +21,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<img style=\"width: 250px;\" src=\"https://www.kelvys.com.br/img/uploads/Mercado_Livre_Kelvys.png\">\n<div id=\"iframeML-block\"><iframe name=\"'iframeML'\" id=\"iframeML\" src=\"https://perfil.mercadolivre.com.br/KELVYS+CAMISAS\" scrolling=\"no\" frameborder=\"0\"><br></iframe></div>\n"
+      "html": "<img style=\"width: 250px;\" src=\"https://www.kelvys.com.br/img/uploads/mercado_livre_kelvys.png\">\n<div id=\"iframeML-block\"><iframe name=\"'iframeML'\" id=\"iframeML\" src=\"https://www.mercadolivre.com.br/perfil/KELVYS+CAMISAS\" scrolling=\"no\" frameborder=\"0\"><br></iframe></div>\n"
     }
   ]
 }
