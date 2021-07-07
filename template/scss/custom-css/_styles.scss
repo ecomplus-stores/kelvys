@@ -160,14 +160,6 @@ div.col-12.col-xl.order-lg-first > p {
   text-align: center;
   border-top: 1px solid #111111;
 }
-@media (min-width: 767px) {
-   .footer__stamps {
-       width: 250%;
- }
-.footer__stamps > ul.stamps {
-    justify-content: center;
- }
-}
 .title-pagamento > b {
     font-size: var(--font-size-lg);
     font-weight: var(--font-light);
