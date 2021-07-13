@@ -18,8 +18,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-tarja-8pix-min.png",
-      "alt": "Tarja Frete",
-      "mobile_img": ""
+      "alt": "Tarja Frete"
     },
     {
       "type": "banners-grid",
