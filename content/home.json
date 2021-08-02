@@ -52,14 +52,6 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 6,
-      "page": 1,
-      "collection_id": "60a57ac2aa82b4705e429eff:collections:Suéter masculino:/colecao-sueter-masculino",
-      "link": "https://www.kelvys.com.br/sueter-masculino"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
       "collection_id": "5ea9e9125ac4060578b69688",
       "link": "https://www.kelvys.com.br/camisa-polo-masculina"
     },
