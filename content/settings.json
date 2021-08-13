@@ -1,5 +1,6 @@
 {
   "domain": "www.kelvys.com.br",
+  "repository": "ecomplus-stores/kelvys",
   "currency_symbol": "R$",
   "primary_color": "#1c1c1c",
   "theme": {
