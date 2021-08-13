@@ -58,10 +58,10 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 8,
+      "limit": 6,
       "page": 1,
-      "collection_id": "6036bc329332dd6865dda927:collections:Camisa manga curta:/colecao-camisa-manga-curta",
-      "link": "https://www.kelvys.com.br/camisa-manga-curta-masculina"
+      "collection_id": "5ea9eebf5ac4060578b6976d:collections:Camisetas:/colecao-camisetas",
+      "link": "https://www.kelvys.com.br/camisetas-masculinas"
     },
     {
       "type": "custom-html",
