@@ -330,3 +330,60 @@ section.category-description.my-4.my-lg-5 h1 {
     margin-bottom: .7rem
   }
 }
+.cookieconsent {
+  position: fixed;
+  bottom: 0;
+  padding: 1rem .5rem;
+  background-color: #fff;
+  box-shadow: 0 0 40px 0 rgba(0,0,0,.68);
+  z-index: 999;
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media (max-width: 991.98px) {
+  .cookieconsent {
+      bottom:.5rem;
+      left: .5rem;
+      right: .5rem;
+      padding:15px;
+      max-width:90%;
+  }
+
+  .cookieconsent .product-buy-button {
+      width: 100%;
+      margin-top:15px;
+  }
+}
+
+.cookieconsent .text {
+  color: #000;
+  font-size: 13px;
+  line-height: initial;
+}
+
+.cookieconsent .text a {
+  text-decoration: underline;
+  color: #000;
+}
+#cookieconsent button:hover{color:#fff;background:#000}
+#cookieconsent button{
+  color: #000;
+  font-weight: 700;
+  display: block;
+  white-space: nowrap;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  font-size: 12px;
+  border: 1px solid #000;
+  border-radius: 50px;
+  outline: none;
+  transition:all .2s
+}
+
+@media (min-width: 991.98px) {
+  #cookieconsent .row{
+    display:flex;
+    align-items:center;
+  }
+}
