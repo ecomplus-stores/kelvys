@@ -337,10 +337,15 @@ section.category-description.my-4.my-lg-5 h1 {
   background-color: #fff;
   box-shadow: 0 0 40px 0 rgba(0,0,0,.68);
   z-index: 999;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
-
+#cookieconsent .row{
+    display:flex;
+    align-items:center;
+  }
 @media (max-width: 991.98px) {
   .cookieconsent {
       bottom:.5rem;
