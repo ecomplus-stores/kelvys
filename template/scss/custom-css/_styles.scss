@@ -387,3 +387,12 @@ section.category-description.my-4.my-lg-5 h1 {
     align-items:center;
   }
 }
+
+.codes {
+  display: flex;
+  flex-direction: column;
+}
+.product__ean {
+  color: var(--text-muted);
+  font-size: var(--font-size-sm);
+}
