@@ -330,6 +330,7 @@ section.category-description.my-4.my-lg-5 h1 {
     margin-bottom: .7rem
   }
 }
+//Cookie consent
 .cookieconsent {
   position: fixed;
   bottom: 0;
@@ -388,6 +389,7 @@ section.category-description.my-4.my-lg-5 h1 {
   }
 }
 
+//Ean nos produtos
 .codes {
   display: flex;
   flex-direction: column;
@@ -395,4 +397,9 @@ section.category-description.my-4.my-lg-5 h1 {
 .product__ean {
   color: var(--text-muted);
   font-size: var(--font-size-sm);
+}
+
+//Retirar o cancelar pedido
+.order-info__toggle {
+    display: none !important;
 }
