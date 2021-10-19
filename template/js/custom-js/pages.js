@@ -19,11 +19,3 @@ if(screen.width >= 768){
   $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
-// MUdança de Carrinho pra Sacola
-function changeCartButtonTitle(title) {
-    const $cartButton = document.querySelector("#cart-button");
-    $cartButton.title = title;
-}
-window.onload = () => {
-    changeCartButtonTitle('Abrir Sacola');
-}
