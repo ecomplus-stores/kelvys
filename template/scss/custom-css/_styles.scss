@@ -403,3 +403,69 @@ section.category-description.my-4.my-lg-5 h1 {
 .order-info__toggle {
     display: none !important;
 }
+
+//Mudança de Carrinho pra Sacola
+.minicart__empty .lead {
+    font-size: 0;
+}
+
+.minicart__empty .lead:after {
+    content: 'Sacola vazia ...';
+    display: block;
+    font-size: calc(1.25788rem + .0945vw);
+    margin-bottom: 16px;
+}
+
+.minicart__aside .card-header{
+    font-size: 0;
+}
+
+.minicart__aside .card-header:after {
+    content: "Minha sacola de compras";
+    font-size: 16px;
+}
+
+#spa .container h1 {
+    font-size: 0;
+}
+
+#spa .container h1::before {
+    display: block;
+    content: 'Minha sacola';
+    font-size: 2rem;
+    color: var(--secondary);
+    font-weight: 500;
+}
+
+.minicart__btn-cart {
+    font-size: 0;
+}
+
+.minicart__btn-cart::after {
+    content: 'Ver sacola';
+    font-size: 1rem;
+}
+.cart__empty .lead.text-muted {
+    font-size: 0;
+}
+.cart__empty .lead.text-muted::after {
+    content: 'Sacola vazia ...';
+    font-size: 16px;
+}
+
+.checkout__back .btn.btn-sm.btn-light {
+    font-size: 0;
+}
+
+.checkout__back .btn.btn-sm.btn-light::after {
+    content: 'Voltar à sacola';
+    font-size: .875rem;
+}
+
+.product-card__buy.fade .btn.btn-primary.btn-block {
+    font-size: 0;
+}
+.product-card__buy.fade .btn.btn-primary.btn-block::after {
+    content: 'Adicionar à sacola';
+    font-size: 1rem;
+}
