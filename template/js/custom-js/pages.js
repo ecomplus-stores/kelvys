@@ -24,7 +24,6 @@ function changeCartButtonTitle(title) {
     const $cartButton = document.querySelector("#cart-button");
     $cartButton.title = title;
 }
-
 window.onload = () => {
     changeCartButtonTitle('Abrir Sacola');
 }
