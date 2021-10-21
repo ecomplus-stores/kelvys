@@ -1,4 +1,12 @@
 // Add your custom CSS here.
+// full banner
+@media(min-width: 768px) {
+  .banner-slider {
+      max-width: 100%;
+      --banner-aspect-ratio: 1!important;
+      height: auto;
+  }
+}
 //Fonte
 body {
     font-family: Poppins, sans-serif !important;
