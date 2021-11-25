@@ -8,10 +8,17 @@
       "slides": [
         {
           "start": "2021-11-01T12:59:29.930Z",
-          "end": "2031-01-01T02:59:00.000Z",
+          "end": "2021-11-26T02:59:00.000Z",
           "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v6-squoosh.jpg",
           "link": "https://www.kelvys.com.br/camisas-masculinas",
           "alt": "Camisas Masculina Kelvy's"
+        },
+        {
+          "start": "2021-11-26T03:01:50.281Z",
+          "end": "2021-11-29T02:59:50.514Z",
+          "img": "/img/uploads/k_black_desktop1.png",
+          "link": "https://www.kelvys.com.br/ofertas",
+          "mobile_img": "/img/uploads/k_black__moblie1.png"
         }
       ]
     },
