@@ -45,7 +45,7 @@ button.header__search-btn {
 i.header__toggler-icon.i-bars {
     color: #fff;
 }
-i.i-search {
+i.i-search::before {
     color: #fff;
 }
 button#mobile-search-btn.d-lg-none.btn.btn-lg, button#mobile-search-btn.d-lg-none.btn.btn-lg.collapsed {
