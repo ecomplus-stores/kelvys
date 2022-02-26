@@ -45,13 +45,13 @@ button.header__search-btn {
 i.header__toggler-icon.fas.fa-bars {
     color: #fff;
 }
-#search-bar i.fas.fa-search  {
+i.i-search ::before  {
     color: #fff;
 }
 button#mobile-search-btn.d-lg-none.btn.btn-lg, button#mobile-search-btn.d-lg-none.btn.btn-lg.collapsed {
     color: #fff;
 }
-nav.header__nav > a {
+.header__nav a {
     color: #fff;
     padding: 0 var(--spacer-3);
 }
