@@ -464,6 +464,9 @@ section.category-description.my-4.my-lg-5 h1 {
     content: 'Voltar à sacola';
     font-size: .875rem;
 }
+.product-card__buy.fade .btn.btn-primary.btn-block {
+    font-size: 0;
+}
 .product-card__buy.fade .btn.btn-primary.btn-block::after {
     content: 'Adicionar à sacola';
     font-size: 1rem;
