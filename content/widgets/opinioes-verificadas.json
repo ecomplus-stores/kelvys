@@ -1,18 +1,18 @@
 {
-  "useJquery": true,
-  "productSlots": "src/append/product-slots",
+  "pkg": "@ecomplus/widget-opinioes-verificadas",
   "active": true,
-  "productDescriptionAppend": "src/append/product-block",
   "desktopOnly": false,
   "enableCheckout": false,
-  "stampsAppend": "src/append/stamps",
-  "pkg": "@ecomplus/widget-opinioes-verificadas",
-  "productCardSlots": "src/append/product-card-slots",
-  "headAppend": "src/append/head",
   "disablePages": true,
-  "bodyAppend": "src/append/body",
   "options": {
     "stamp": "<img src=\"https://cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/widget3/widget01-3835.png\" alt=\"Opiniões de clientes kelvys.com.br\"   width=\"150\">\n<meta class=\"netreviewsWidget\" id=\"netreviewsWidgetNum3835\" data-jsurl=\"https://cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/widget4/widget01-3835_script.js\"/><script src=\"https://cl.avis-verifies.com/br/widget4/widget01_FB3.min.js\"></script>",
     "tagJs": "<script charset=\"utf-8\" src=\"//cl.avis-verifies.com/br/cache/8/c/7/8c7c2c69-7520-d754-f544-483d6a0625cb/AWS/PRODUCT_API/tag.min.js\"></script>"
-  }
+  },
+  "headAppend": "src/append/head",
+  "bodyAppend": "src/append/body",
+  "productCardSlots": "src/append/product-card-slots",
+  "productSlots": "src/append/product-slots",
+  "productDescriptionAppend": "src/append/product-block",
+  "stampsAppend": "src/append/stamps",
+  "useJquery": true
 }
