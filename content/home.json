@@ -1,5 +1,5 @@
 {
-  "meta_title": "Kelvy's Camisas | A marca de camisas masculinas de qualidade!",
+  "meta_title": "Kelvy's Camisas | A marca de camisas masculinas de qualidade",
   "meta_description": "Kelvy's Camisas é uma marca de camisa masculina, camisas com qualidade e preço justo, temos camisa com corte Slim tecidos de algodão e mistos com elastano.",
   "sections": [
     {
@@ -13,7 +13,8 @@
           "link": "https://www.kelvys.com.br/camisas-masculinas",
           "alt": "Camisas Masculina Kelvy's"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "responsive-banner",
