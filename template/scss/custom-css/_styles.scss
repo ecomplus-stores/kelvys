@@ -479,7 +479,7 @@ section.category-description.my-4.my-lg-5 h1 {
     border-color: #111111!important;
 }
 //Aviso de Frete MercadoLivre
-div.shipping-calculator__services::before {
+div.shipping-calculator__services::after {
   content: "⚠️ PROCURANDO FRETES MAIS BARATOS? Acesse nossa loja exclusiva no MERCADOLIVRE https://www.loja.kelvys.com.br/";
   border: 1px solid #b70000;
   color: #b70000;
