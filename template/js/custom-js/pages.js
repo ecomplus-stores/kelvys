@@ -19,3 +19,6 @@ if(screen.width >= 768){
   $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
+//Link para o MercadoLivre
+$('.shipping-calculator__services::after').append('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Fretes mais baratos"></a>');
+//Fim
