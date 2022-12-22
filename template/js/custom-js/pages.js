@@ -20,5 +20,5 @@ if(screen.width >= 768){
 }
 //Fim
 //Link para o MercadoLivre
-$('.shipping-calculator__services::after').append('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Fretes mais baratos"></a>');
+$('.shipping-calculator__services::after').appendTo('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Fretes mais baratos"></a>');
 //Fim
