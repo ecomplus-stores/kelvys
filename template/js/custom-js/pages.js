@@ -20,5 +20,5 @@ if(screen.width >= 768){
 }
 //Fim
 // Frete MercadoLivre
-$('body#page-products .shipping-calculator__services').append('<a href="https://web.whatsapp.com/send?1=pt_BR&phone=554491808130" target="_blank" title="Atendimento via WhatsApp"><img src="https://www.kelvys.com.br/img/uploads/whatsapp_kelvys.png"></a>');
+$('.shipping-calculator__services::after').append('<a href="https://web.whatsapp.com/send?1=pt_BR&phone=554491808130" target="_blank" title="Atendimento via WhatsApp"><img src="https://www.kelvys.com.br/img/uploads/whatsapp_kelvys.png"></a>');
 //Fim
