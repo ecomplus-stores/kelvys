@@ -21,6 +21,6 @@ if(screen.width >= 768){
 //Fim
 // Frete MercadoLivre
 if(screen.width >= 768){
-     $('<div class="frete-barato"></div>').appendTo('.shipping-calculator__services');
+     $('<div class="frete-barato"></div>').appendTo('.shipping-calculator__services::after');
      $('<b>Pague com</b>').appendTo('.frete-barato'); 
 }
