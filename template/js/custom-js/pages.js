@@ -19,3 +19,8 @@ if(screen.width >= 768){
   $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
+// Frete MercadoLivre
+if(screen.width >= 768){
+     $('<div class="frete-barato"></div>').appendTo('.shipping-calculator__services');
+     $('<b>Pague com</b>').appendTo('.frete-barato'); 
+}
