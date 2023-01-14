@@ -21,6 +21,6 @@ if(screen.width >= 768){
 //Fim
 //Frete Mercado Livre
 if(screen.width >= 768){
-  $('<div class="envio-ml"></div>').appendTo('.product-actions');
+  $('<div class="envio-ml"></div>').appendTo('body#page-products .col');
   $('<b>Pague com</b>').appendTo('.envio-ml'); 
 }
