@@ -19,8 +19,3 @@ if(screen.width >= 768){
   $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
-//Frete Mercado Livre
-if(screen.width >= 768){
-  $('<div class="envio-ml"></div>').appendTo('.shipping-calculator');
-  $('<b>Pague com</b>').appendTo('.envio-ml'); 
-}
