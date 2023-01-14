@@ -20,6 +20,6 @@ if(screen.width >= 768){
 }
 //Fim
 //ML
-$('<div class="envio-ml"></div>').appendTo('shipping-calculator__services');
-$('<a img src="https://www.kelvys.com.br/img/uploads/banner-instagram.jpg"></a>').appendTo('.envio-ml'); 
+$('<div class="envio-ml"></div>').appendTo('.shipping-calculator__services');
+ $('<b>Pague com</b>').appendTo('.envio-ml'); 
 }
