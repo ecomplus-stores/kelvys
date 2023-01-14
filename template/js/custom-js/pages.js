@@ -21,4 +21,5 @@ if(screen.width >= 768){
 //Fim
 //Frete Mercado Livre
   $('<div class="envio-ml"></div>').appendTo('section#product.product div.col');
-  $('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Fretes mais baratos"><img src="https://www.kelvys.com.br/img/uploads/frete-barato.png"></a>').appendTo('.envio-ml'); 
+  $('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Fretes mais baratos"><img src="https://www.kelvys.com.br/img/uploads/frete-barato.png"></a>').appendTo('.envio-ml');
+//Fim
