@@ -19,7 +19,8 @@ if(screen.width >= 768){
   $('p.footer__payment-methods').appendTo('.formas-de-pagamento'); 
 }
 //Fim
-//ML
-$('<div class="envio-ml"></div>').appendTo('.shipping-calculator__services');
- $('<b>Pague com</b>').appendTo('.envio-ml'); 
+//Frte Mercadi Livre
+if(screen.width >= 768){
+  $('<div class="envio-ml"></div>').appendTo('.shipping-calculator__services');
+  $('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Frete mais barato"><img src="https://www.kelvys.com.br/img/uploads/banner-instagram.jpg"></a>').appendTo('.envio-ml'); 
 }
