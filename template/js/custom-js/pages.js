@@ -21,6 +21,6 @@ if(screen.width >= 768){
 //Fim
 //Frete Mercado Livre
 if(screen.width >= 768){
-  $('<div class="envio-ml"></div>').append('.shipping-calculator__services::after');
-  $('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Frete mais barato"><img src="https://www.kelvys.com.br/img/uploads/banner-instagram.jpg"></a>').appendTo('.envio-ml'); 
+  $('<div class="envio-ml"></div>').appendTo('.shipping-calculator__services');
+  $('<b>Pague com</b>').appendTo('.envio-ml'); 
 }
