@@ -20,7 +20,6 @@ if(screen.width >= 768){
 }
 //Fim
 //ML
-$('shipping-calculator__services::after').append('<a href="https://web.whatsapp.com/send?1=pt_BR&phone=554491808130" target="_blank" id="ws_icon_chat" title="Atendimento via WhatsApp"><img src="https://www.kelvys.com.br/img/uploads/whatsapp_kelvys.png"></a>');
-if($(window).width() < 480) {
-$("#ws_icon_chat").attr("href", "https://api.whatsapp.com/send?1=pt_BR&phone=554491808130");
+$('<div class="envio-ml"></div>').appendTo('shipping-calculator__services');
+ $('<a href="https://web.whatsapp.com/send?1=pt_BR&phone=554491808130" target="_blank" title="Atendimento via WhatsApp"><img src="https://www.kelvys.com.br/img/uploads/banner-instagram.jpg"></a>').appendTo('.envio-ml'); 
 }
