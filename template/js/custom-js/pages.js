@@ -21,6 +21,6 @@ if(screen.width >= 768){
 //Fim
 //Frte Mercadi Livre
 if(screen.width >= 768){
-  $('<div class="envio-ml"></div>').appendTo('.shipping-calculator__services');
+  $('<div class="envio-ml"></div>').appendTo('.shipping-calculator__services::after');
   $('<a href="https://www.loja.kelvys.com.br/" target="_blank" title="Frete mais barato"><img src="https://www.kelvys.com.br/img/uploads/banner-instagram.jpg"></a>').appendTo('.envio-ml'); 
 }
