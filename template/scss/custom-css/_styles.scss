@@ -491,5 +491,10 @@ section.category-description.my-4.my-lg-5 h1 {
 }
 //Banner frete mais barato
 .envio-ml img {
+  max-width: 68% !important;
+}
+@media (max-width: 468px) {
+  .envio-ml img {
   max-width: 98% !important;
+ }
 }
