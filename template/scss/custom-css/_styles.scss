@@ -493,7 +493,7 @@ section.category-description.my-4.my-lg-5 h1 {
 .envio-ml img {
   max-width: 68% !important;
 }
-@media (min-width: 767px) {
+@media (max-width: 767px) {
   .envio-ml img {
   max-width: 98% !important;
   }
