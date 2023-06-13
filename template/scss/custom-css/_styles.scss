@@ -498,3 +498,76 @@ section.category-description.my-4.my-lg-5 h1 {
   max-width: 98% !important;
  }
 }
+//Landing Page Instagram
+#proposta {
+  position: absolute;
+  margin-left: 8%;
+  max-width: 350px;
+  margin-top:5%;
+}
+#propostaTitle,
+#propostaSubtitle {
+  text-shadow: 1px 1px white;
+}
+#callToAction {
+  background-color: var(--green);
+  border: 1px solid var(--green);
+  margin: 25px auto auto 0;
+  min-width:150px;
+  padding: 10px;
+}
+#callToAction a {
+  color: var(--primary-yiq);
+}
+#callToAction:hover {
+    background-color: var(--white);
+}
+#callToAction:hover a {
+    color: var(--green);
+}
+#beneficios {
+  padding: 30px 20px;
+  background-color: var(--primary);
+  color: var(--primary-yiq);
+}
+#beneficios p:not(:last-child) {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #C8C8C8;
+}
+#ctaContainer {
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#ctaContainer button {
+  margin: 10px 0 20px 0;
+}
+#provaSocial {
+  padding: 30px 20px;
+  background-color: #C8C8C8;
+  font-size: 22px;
+}
+#provaSocial a {
+  color: indigo;
+  text-decoration: underline;
+}
+@media(max-width: 575px) {
+  #cabecalho img {
+    content: url('https://c.mlcdn.com.br/800x600/portaldalu/fotosconteudo/101641.jpg');
+    width: 100%;
+  }
+}
+@media(min-width:575px) and (max-width: 991px) {
+    #proposta .cta-container {
+        display:flex;
+        margin-top: 0;
+        gap: 10px;
+    }
+    #callToAction {
+        margin-bottom: 12px;
+        margin-top: auto;
+    }
+}
