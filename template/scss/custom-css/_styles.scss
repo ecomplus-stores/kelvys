@@ -500,10 +500,10 @@ section.category-description.my-4.my-lg-5 h1 {
 }
 //Landing Page Instagram
 #callToAction {
-  background-color: var(--green);
-  border: 1px solid var(--green);
+  background-color: var(--primary);
+  border: 1px solid var(--primary);
   margin: 25px auto auto 0;
-  min-width:150px;
+  min-width:100%;
   padding: 10px;
 }
 #callToAction a {
@@ -517,9 +517,7 @@ section.category-description.my-4.my-lg-5 h1 {
 }
 #beneficios {
   padding: 30px 20px;
-  background-color: var(--primary);
-  color: var(--primary-yiq);
-}
+ }
 #beneficios p:not(:last-child) {
   padding-bottom: 20px;
   border-bottom: 1px solid #C8C8C8;
