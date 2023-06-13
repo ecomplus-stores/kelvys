@@ -535,15 +535,6 @@ section.category-description.my-4.my-lg-5 h1 {
 #ctaContainer button {
   margin: 10px 0 20px 0;
 }
-#provaSocial {
-  padding: 30px 20px;
-  background-color: #C8C8C8;
-  font-size: 22px;
-}
-#provaSocial a {
-  color: indigo;
-  text-decoration: underline;
-}
 @media(max-width: 575px) {
   #cabecalho img {
     content: url('https://www.kelvys.com.br/img/uploads/banner-full-kelvysco-mobile.jpg');
@@ -551,11 +542,6 @@ section.category-description.my-4.my-lg-5 h1 {
   }
 }
 @media(min-width:575px) and (max-width: 991px) {
-    #proposta .cta-container {
-        display:flex;
-        margin-top: 0;
-        gap: 10px;
-    }
     #callToAction {
         margin-bottom: 12px;
         margin-top: auto;
