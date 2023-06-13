@@ -1,5 +1,0 @@
-{
-  "title": "Links Instagram",
-  "sections": [],
-  "body": "<section id=\"cabecalho\">\n  <img src=\"https://www.kelvys.com.br/img/uploads/banner-full-kelvysco.jpg\">\n</section>\n<section id=\"beneficios\">\n  <button id=\"callToAction\">\n          <a href=\"https://www.kelvys.com.br/\">LOJA VIRTUAL</a>\n        </button>\n  <button id=\"callToAction\">\n          <a href=\"https://api.whatsapp.com/send?1=pt_BR&phone=554491808130\">WHATSAPP</a>\n        </button>\n  <button id=\"callToAction\">\n          <a href=\"https://www.kelvys.com.br/pages/enderecos\">ENDEREÇO LOJAS</a>\n        </button>\n  <button id=\"callToAction\">\n          <a href=\"https://www.kelvys.com.br/pages/cupom-de-desconto\">CUPOM DE DESCONTO</a>\n        </button>\n\n</section>"
-}
