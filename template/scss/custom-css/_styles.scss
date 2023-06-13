@@ -529,22 +529,11 @@ body#page-pages\/link-bio.__pages_link-bio div.page-title__head {
     color: var(--primary);
 }
 #beneficios {
-  padding: 30px 20px;
+  padding: 10px 20px;
  }
 #beneficios p:not(:last-child) {
   padding-bottom: 20px;
   border-bottom: 1px solid #C8C8C8;
-}
-#ctaContainer {
-  display: flex;
-  width: 100%;
-  margin-top: 20px;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-#ctaContainer button {
-  margin: 10px 0 20px 0;
 }
 @media(max-width: 575px) {
   #cabecalho img {
