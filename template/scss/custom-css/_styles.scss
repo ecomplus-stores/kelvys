@@ -511,6 +511,7 @@ body#page-pages\/links-instagram.__pages_links-instagram div.ecom-credits {
   margin: 25px auto auto 0;
   min-width:100%;
   padding: 10px;
+  border-radius: 10px;
 }
 #callToAction a {
   color: var(--primary-yiq);
@@ -519,7 +520,7 @@ body#page-pages\/links-instagram.__pages_links-instagram div.ecom-credits {
     background-color: var(--white);
 }
 #callToAction:hover a {
-    color: var(--green);
+    color: var(--primary);
 }
 #beneficios {
   padding: 30px 20px;
