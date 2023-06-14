@@ -511,27 +511,23 @@ body#page-pages\/link-bio.__pages_link-bio header#header.header {
 body#page-pages\/link-bio.__pages_link-bio div.page-title__head {
     display: none !important;
 }
-button {
+#callToAction {
   background-color: var(--primary);
   border: 1px solid var(--primary);
   margin: 25px auto auto 0;
-  min-width: 100%;
+  min-width:100%;
   padding: 10px;
   border-radius: 10px;
 }
-
-button a {
+#callToAction a {
   color: var(--primary-yiq);
-  text-decoration: none;
 }
-
-button:hover {
-  background-color: var(--white);
+#callToAction:hover {
+    background-color: var(--white);
 }
-
-button:hover a {
-  color: var(--primary);
-  text-decoration: none;
+#callToAction:hover a {
+    color: var(--primary);
+    text-decoration: none;
 }
 #beneficios {
   padding: 10px 20px;
