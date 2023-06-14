@@ -511,26 +511,25 @@ body#page-pages\/link-bio.__pages_link-bio header#header.header {
 body#page-pages\/link-bio.__pages_link-bio div.page-title__head {
     display: none !important;
 }
-#callToAction {
+.callToAction {
   background-color: var(--primary);
   border: 1px solid var(--primary);
   margin: 25px auto auto 0;
   min-width: 100%;
   padding: 10px;
   border-radius: 10px;
-  display: inline-block; /* Para o link ocupar apenas o espaço necessário */
-  text-decoration: none; /* Remover a decoração de link */
 }
-#callToAction button {
+
+.callToAction a {
   color: var(--primary-yiq);
-  background: none;
-  border: none;
-  cursor: pointer;
+  text-decoration: none;
 }
-#callToAction:hover {
+
+.callToAction:hover {
   background-color: var(--white);
 }
-#callToAction:hover button {
+
+.callToAction:hover a {
   color: var(--primary);
   text-decoration: none;
 }
