@@ -66,7 +66,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "## [Últimas do Blog...](https://www.kelvys.com.br/blog)"
+      "markdown": "### [Últimas do Blog...](https://www.kelvys.com.br/blog)"
     },
     {
       "type": "blog",
