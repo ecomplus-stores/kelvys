@@ -550,4 +550,8 @@ body#page-pages\/link-bio.__pages_link-bio div.page-title__head {
         margin-top: auto;
  }
 }
+//Limitar os posts do Blog na home
+#page-home div.blog.my-4.my-lg-5 div.col.col-md-6.col-lg-4:nth-child(n+4) {
+    display: none;
+  }
 
