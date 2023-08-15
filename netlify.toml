@@ -1,0 +1,102 @@
+[[redirects]]
+  from = "https://www.kelvys.com.br/contato"
+  to = "https://www.kelvys.com.br/pages/contato"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.kelvys.com.br/pagina/sobre"
+  to = "https://www.kelvys.com.br/pages/sobre-nos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.kelvys.com.br/pagina/enderecos"
+  to = "https://www.kelvys.com.br/pages/enderecos"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.kelvys.com.br/pagina/pagamento"
+  to = "https://www.kelvys.com.br/pages/como-comprar"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.kelvys.com.br/pagina/depoimentos-de-clientes"
+  to = "https://www.kelvys.com.br/pages/depoimentos-de-clientes"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.kelvys.com.br/pagina/trocas"
+  to = "https://www.kelvys.com.br/pages/trocas"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.kelvys.com.br/pagina/privacidade"
+  to = "https://www.kelvys.com.br/pages/privacidade"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.kelvys.com.br/pages/contato"
+  to = "https://www.kelvys.com.br/pages/contato-1"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://blog.kelvys.com.br"
+  to = "https://www.kelvys.com.br/blog"
+  status = 301
+  force = true
+
+[build]
+  publish = "publish"
+  functions = "functions-zip"
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/ssr?slug=:splat"
+  status = 200
+
+[[headers]]
+  for = "/storefront.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/storefront.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/storefront.css"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/checkout.*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/checkout.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/chunk.*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300, s-maxage=60, must-revalidate"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400, s-maxage=600"

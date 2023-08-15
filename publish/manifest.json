@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.db74c3aaef638be43584bb1ee4c475c7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.11c546b011a7295d65fc035d850c5d93.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9b9c0062a803430a1e3aa93ac4275ec6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.cf9261086390cb081e1ab724330fe1cf.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.21f4801e0defa16f88a7e7584b941191.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Kelvy's Camisas",
+  "short_name": "Kelvy's",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Muito mais do que confeccionar camisas masculinas, polos e camisetas, a Kelvy’s Camisas visa qualidade, bom preço e a satisfação de seus clientes. Nossa linha de produtos está voltada para o público que não abre mão do padrão de qualidade das roupas que usa, nem do seu estilo próprio. Com preço justo e variedade, incentivamos ainda mais os desejos e estilos de cada um que adquire nossos produtos. Há 27 anos no ramo de moda masculina, para nós o mais importante é proporcionar o bem-estar de nossos clientes.",
+  "background_color": "#ffffff",
+  "theme_color": "#1c1c1c"
+}
