@@ -12,6 +12,12 @@
           "img": "/img/uploads/full-camisa-masculina-photo-by-desiree-van-driel-unsplash-v6-squoosh.jpg",
           "link": "https://www.kelvys.com.br/camisas-masculinas",
           "alt": "Camisas Masculina Kelvy's"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/nimble-made-_pfanxhwe4o-unsplash-full.webp",
+          "mobile_img": "/img/uploads/nimble-made-_pfanxhwe4o-unsplash-mobile.webp"
         }
       ],
       "full_width": false
