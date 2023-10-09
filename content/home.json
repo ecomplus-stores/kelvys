@@ -26,19 +26,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/b_categ_camisa_jeans.png",
+          "img": "/img/uploads/camisa-jeans-masculina-photo-by-red-hat-factory-on-unsplash-web.jpg",
           "alt": "Camisa Jeans Masculina",
           "link": "https://www.kelvys.com.br/camisa-jeans-masculina",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/b_categ_camisas.png",
+          "img": "/img/uploads/camisas-masculinas-photo-by-bantersnaps-on-unsplash-web.jpg",
           "alt": "Camisa masculina",
           "link": "https://www.kelvys.com.br/camisas-masculinas",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/b_categ_camisetas.png",
+          "img": "/img/uploads/camiseta-masculina-photo-harrison-kugler-on-unsplash-web.jpg",
           "alt": "Camisetas Masculinas",
           "link": "https://www.kelvys.com.br/camisetas-masculinas",
           "mobile_img": ""
